@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Marco normativo y conceptual',
+    descripcionCurso:
+      'En este componente formativo se abordarán los conceptos básicos relacionados con el dengue desde su definición como enfermedad, pasando a la epidemiología en Colombia y las políticas públicas vigentes para contribuir en la reducción de la morbilidad y mortalidad por esta causa, este es un contexto general para los profesionales que llevan a cabo el abordaje clínico de los casos y para la comprensión del dengue como evento de interés en salud pública priorizado dentro del gobierno nacional.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -31,13 +32,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: '¿Qué es el dengue?',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Forma de transmisión',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Epidemiología',
+            hash: 't_1_2',
           },
         ],
       },
@@ -45,13 +51,38 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Dengue en el marco de la Política nacional de Salud',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '1.1',
+            titulo: 'Plan Decenal de Salud Pública',
+            hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo:
+              'Estrategia de Gestión Integral de las ETV (Enfermedades Transmitidas por Vectores)',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Rutas Integrales de Atención en Salud',
+            hash: 't_1_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo:
+          'Sistema de vigilancia en salud pública: Protocolos y lineamiento de Vigilancia en Salud Pública',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Guías y lineamientos de manejo clínico',
         desarrolloContenidos: true,
       },
     ],
@@ -121,8 +152,10 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Organización Mundial de la Salud. (2022). Nota descriptiva dengue.',
+      link:
+        'https://www.who.int/es/news-room/fact-sheets/detail/dengue-and-severe-dengue',
     },
   ],
   creditos: [

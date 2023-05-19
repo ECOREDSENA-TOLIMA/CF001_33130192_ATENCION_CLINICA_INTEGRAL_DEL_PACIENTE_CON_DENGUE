@@ -4,14 +4,14 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 3
-      h1 Sistema de vigilancia en salud pública: Protocolos y lineamiento de Vigilancia en Salud Pública
+        span 4
+      h1 Guías y lineamientos de manejo clínico
 
 </template>
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema4',
   data: () => ({
     // variables de vue
   }),

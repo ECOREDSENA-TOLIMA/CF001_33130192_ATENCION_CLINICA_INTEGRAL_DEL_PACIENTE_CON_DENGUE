@@ -9,6 +9,11 @@
     position: absolute
     top: 25%
     right: 30%
+  &-3
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 50%
+    right: 70%
 
 
 @keyframes float1
@@ -17,3 +22,13 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: scale(1)
+
+  100%
+    transform: scale(0.5)
+
+.color-adicional-2
+  background-color: $color-adicional-2

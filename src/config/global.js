@@ -59,20 +59,20 @@ export default {
         desarrolloContenidos: true,
         subMenu: [
           {
-            numero: '1.1',
+            numero: '2.1',
             titulo: 'Plan Decenal de Salud Pública',
-            hash: 't_1_1',
+            hash: 't_2_1',
           },
           {
-            numero: '1.2',
+            numero: '2.2',
             titulo:
               'Estrategia de Gestión Integral de las ETV (Enfermedades Transmitidas por Vectores)',
-            hash: 't_1_2',
+            hash: 't_2_2',
           },
           {
-            numero: '1.3',
+            numero: '2.3',
             titulo: 'Rutas Integrales de Atención en Salud',
-            hash: 't_1_3',
+            hash: 't_2_3',
           },
         ],
       },

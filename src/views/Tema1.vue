@@ -21,22 +21,22 @@
             img(src="@/assets/curso/tema1/1.png" data-aos="zoom-in-up")
 
           .tarjeta.color-adicional-2.p-3(x="46%" y="20%" numero="1")
-            p.mb-0 #[b Clasificación de los residuos según grado de peligrosidad:] Se clasifican en residuos peligrosos y no peligrosos esto quiere decir según el grado de peligrosidad al medio ambiente o a la salud humana.
+            p.mb-0 #[b Concepto:] Es un virus RNA (Ácido Ribonucleico) que pertenece al género Flavivirus, de la familia Flaviviridae que, a la vez, pertenece al grupo de los Arbovirus, que quiere decir virus transmitidos por artrópodos; así como el virus Chikungunya, Zika o la encefalitis.
 
           .tarjeta.color-adicional-2.p-3(x="33%" y="50%" numero="2")
-            p.mb-0 #[b Clasificación de los residuos según su origen:] Esto quiere decir si son de origen doméstico proveniente de los hogares, origen comercial si son propias del comercio, industrial si son del sector industrial, de escombros y residuos de construcción del sector de construcción, residuos sanitarios si son de centros y establecimientos sanitarios, residuos mineros si son de minas, residuos agrícolas si son del sector agrícola
+            p.mb-0 #[b Flaviviridae:] Es una familia de virus que se propagan principalmente por vectores artrópodos, la etimología del nombre de esta familia proviene del latín Flavus, que significa amarillo. Los flavivirus son virus pequeños (40 - 60 nm).
 
           .tarjeta.color-adicional-2.p-3(x="50%" y="50%" numero="3")
-            p.mb-0 #[b Clasificación de los residuos según su aprovechamiento:] Se clasifican en aprovechables y no aprovechables, esto depende de cada caso en particular del residuo que se esté tratando y su estado (calidad del residuo).
+            p.mb-0 #[b Flavivirus:] Virus transmitidos por artrópodos, principalmente por especies de mosquitos de los géneros Aedes y Culex que se detectan principalmente en zonas tropicales y subtropicales.
 
           .tarjeta.color-adicional-2.p-3(x="66.5%" y="50%" numero="4")
-            p.mb-0 #[b Clasificación de los residuos según su biodegradabilidad:] Quiere decir si es orgánico o inorgánico.
+            p.mb-0 #[b Virus dengue:] Enfermedad viral aguda que puede afectar especialmente niños y adultos mayores, los síntomas son fiebre alta, sarpullido y dolor en los músculos y las articulaciones. En los casos más graves puede haber hemorragia profusa y un shock, que pueden llevar a la muerte.
 
           .tarjeta.color-adicional-2.p-3(x="83.5%" y="43%" numero="5")
-            p.mb-0 #[b Clasificación según su composición:] Clasificación según tipos de materiales o componentes químicos de lo que esté hecho.
+            p.mb-0 #[b Serotipos:] Existen 4 serotipos de este virus: DENV-1, DENV-2, DENV-3 y DENV-4. Cada infección por un serotipo produce inmunidad permanente contra este. La infección sucesiva con dos o más serotipos diferentes incrementa el riesgo de la enfermedad lo que se debe al fenómeno denominado “amplificación de la infección dependiente de anticuerpos”.
           
           .tarjeta.color-adicional-2.p-3(x="46%" y="90%" numero="6")
-            p.mb-0 #[b Clasificación según su composición:] Clasificación según tipos de materiales o componentes químicos de lo que esté hecho.
+            p.mb-0 #[b En Colombia:] Existe evidencia de la circulación de los cuatro serotipos del virus y la proporción de serotipos circulantes por direcciones territoriales de salud, es decir, departamentos y distritos se constituye como uno de los indicadores de vigilancia en salud pública para medir el riesgo de transmisión, presentación de brotes y complicación de casos.
 
     Separador.mt-5
 
@@ -190,20 +190,29 @@
               .row.justify-content-around.align-items-center
                 .col-1.col-sm-10.col-lg-10.px-md-4
                   .row.mb-3
-                    .col-md-6.mb-6.mb-lg-0
-                      .tarjeta-avatar
-                        img.px-md-4(src='@/assets/curso/tema1/per.svg' alt='AvatarTop')
-                        .tarjeta.color-adicional-2.tarj-hover
-                          .text-center.p-4
-                            h3.mb-2 01
-                            p Manejar: una secuencia de movimientos con el propósito de controlar un objeto con la mano o dedos y colocarlo en un nuevo sitio.
-                    .col-md-6.mb-6.mb-lg-0
-                      .tarjeta-avatar
-                        img.px-md-4(src='@/assets/curso/tema1/mos.svg' alt='AvatarTop')
-                        .tarjeta.color-adicional-2.tarj-hover
-                          .text-center.p-4
-                            h3.mb-2 02
-                            p Transportar: un movimiento con el propósito de colocar un objeto nuevo en un lugar con la mano o los dedos.
+                    .col-md-6.mb-6.mb-lg-0.px-3                      
+                        .tarjeta.color-adicional-1.tarj-hover.min-height                                                                            
+                          .crd.crd--avatarHorizontal.crd--first.py-5
+                            .row.align-items-center
+                              .col-auto
+                                figure
+                                  img.icono-medio(src="@/assets/curso/tema1/per.svg", alt="alt").img100
+                              .col
+                                h3.mb-2.mx-3 Macro-determinantes  
+                                p.caja-mm Se encuentran las condiciones geográficas como la ubicación (altitud), la variabilidad climática, los socioeconómicos (la urbanización no planificada, las condiciones y calidad de vida de la población), los culturales, (los que inciden en aspectos conductuales), los socioeconómicos (el bajo desarrollo económico, la falta de gestión y respuesta local e institucional).
+
+
+                    .col-md-6.mb-6.mb-lg-0.px-3                      
+                        .tarjeta.color-adicional-1.tarj-hover.min-height                                                                          
+                          .crd.crd--avatarHorizontal.crd--first.py-5
+                            .row.align-items-center
+                              .col-auto
+                                figure
+                                  img.icono-medio(src="@/assets/curso/tema1/mos.svg", alt="alt").img100
+                              .col
+                                h3.mb-2.mx-3 Micro-determinantes 
+                                p.caja-mm Están influenciados por las características del virus, por ejemplo, la circulación de los 4 serotipos que favorece presentación de brotes y formas graves, el huésped que representa esa población vulnerable, las condiciones inmunológicas que pueden favorecer el desarrollo de la enfermedad casos, entre otros.
+        
       .row.justify-content-center(data-aos="fade-right")
         .col-lg-10
           p.py-3(data-aos="fade-up" style="position:relative") Para conocer los principales determinantes en salud para el dengue en Colombia se debe observar la información que se presenta en la siguiente infografía:

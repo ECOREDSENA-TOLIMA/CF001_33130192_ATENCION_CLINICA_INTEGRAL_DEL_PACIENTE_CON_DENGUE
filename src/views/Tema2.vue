@@ -54,7 +54,7 @@
                   h3.text-white.mb-1 Lineamientos normativos para interpretación, traducción y discapacidad
                   p.text-small.text-white Denominación y normativa.
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('@/assets/curso/temas/plan_decenal.pdf')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/plan_decenal.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
         Separador
@@ -71,7 +71,7 @@
         p.mb-5 Dicha estrategia ha sido adoptada y adaptada en cada uno de los territorios del país en el marco de los equipos funcionales nacionales y los diferentes espacios intersectoriales, en el desarrollo del programa nacional de las ETV y los subprogramas, que para este caso corresponde al subprograma de arbovirosis (dengue, chikunguña y zika) a través de los planes estratégicos de cada cuatrienio
         figure
           img.pb-0.my-0(src="@/assets/curso/tema2/4.png" data-aos="zoom-in-up")
-          .cajon.color-secundario.p-4.mt-0.col-lg-10.m-auto(style="background-color:#ADE65F;")
+          .cajon.color-secundario.p-4.mt-0.col-lg-10.m-auto(style="background-color:#F2FBE6;")
             p.mb-0(data-aos="fade-up") Estos objetivos de control como su nombre lo indica, representa aquello que se busca obtener con la aplicación de los controles de seguridad, de tal manera que, en un ejercicio de aplicación, su adopción corresponde a las necesidades y problemas que la organización quiere abordar.
 
     Separador.mt-5
@@ -93,21 +93,23 @@
                 p Desarrollado por W3C. Son presentaciones multimedia compuestas por elementos sonoros, videos, imágenes y textos almacenados separadamente y luego presentados simultáneamente cuando se ejecuta la presentación. Se pueden activar subtítulos y descripciones auditivas.
               .col-lg-7
                 figure
-                  img(src='@/assets/curso/tema2/5.png', style="width:650px").m-auto
+                  img(src='@/assets/curso/tema2/7.png', style="width:650px").m-auto
+
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
                 h4 SAMI
                 p #[i Synchronized Accesible Media Interchange] es una especificación de Microsoft que incorpora los subtítulos al dispositivo Windows Media Player. Se emplea para describir presentaciones multimedia, es decir, presentaciones en las que se puede combinar texto (con formato), imágenes, audio y video. SMIL es un lenguaje de marcado basado en XML.
               .col-lg-7
                 figure
-                  img(src='@/assets/curso/tema2/5.png', style="width:650px").m-auto
+                  img(src='@/assets/curso/tema2/8.png', style="width:650px").m-auto
+                  
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
                 h4 Dragon Naturally Speaking
                 p Aplicación de reconocimiento de voz para generar subtítulos sin tener que exportar texto de un editor. Es un programa de reconocimiento de voz disponible en varios idiomas, Con él se puede redactar documentos, escribir correos electrónicos, navegar por Internet o usar Windows, todo con muy alta precisión.
               .col-lg-7
                 figure
-                  img(src='@/assets/curso/tema2/5.png', style="width:650px").m-auto
+                  img(src='@/assets/curso/tema2/9.png', style="width:650px").m-auto
             
 
 

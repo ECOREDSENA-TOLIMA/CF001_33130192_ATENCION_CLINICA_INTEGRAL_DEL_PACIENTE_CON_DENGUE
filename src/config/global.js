@@ -341,9 +341,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Norma Constanza Morales',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -351,9 +351,30 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Ángela Rocío Sánchez Ruiz ',
+          cargo: 'Experto Temático',
+          centro:
+            'Regional Distrito Capital Centro de Electricidad, Electrónica y Telecomunicaciones. ',
+        },
+        {
+          nombre: 'Miroslava González H. ',
+          cargo: 'Diseñador y Evaluador instruccional ',
+          centro: 'Regional Distrito Capital Centro de Gestión Industrial ',
+        },
+        {
+          nombre: 'Juan Gilberto Giraldo Córtes',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Centro de Comercio y Servicios Regional Tolima',
+        },
+        {
+          nombre: 'Humberto Arias Díaz',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Centro de Comercio y Servicios Regional Tolima',
+        },
+        {
+          nombre: 'María Inés Machado López',
+          cargo: 'Metodologa',
+          centro: 'Centro de Comercio y Servicios Regional Tolima',
         },
       ],
     },
@@ -361,9 +382,9 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Oscar Iván Uribe',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          centro: 'Centro de Comercio y Servicios Regional Tolima',
         },
         {
           nombre: 'Cristian Mauricio Otálora Clavijo',
@@ -371,9 +392,9 @@ export default {
           centro: 'Centro de Comercio y Servicios Regional Tolima',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Oleg Litvin',
           cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          centro: 'Centro de Comercio y Servicios Regional Tolima',
         },
       ],
     },
@@ -381,14 +402,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Centro de Comercio y Servicios Regional Tolima',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: ' Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Centro de Comercio y Servicios Regional Tolima',
         },
       ],
     },

@@ -224,24 +224,46 @@
                   img(src='@/assets/curso/tema1/24.png', alt='Tipos de residuos según cuatro criterios principales')
 
               .tarjeta.color-adicional-2.p-3(x="12%" y="32%" numero="+")
-                p.mb-0 #[b Clasificación de los residuos según grado de peligrosidad:] Se clasifican en residuos peligrosos y no peligrosos esto quiere decir según el grado de peligrosidad al medio ambiente o a la salud humana.
+                p.mb-0 #[b Sociales económicos:] 
+                  p.m-0(style="position:relative") ● Nivel educativo.
+                  p.m-0(style="position:relative") ● Ingreso per cápita. 
+                  p.m-0(style="position:relative") ● Nivel socioeconómico.
+                  p.m-0(style="position:relative") ● Prestación de servicios de salud.
+                  p.m-0(style="position:relative") ● Crecimiento poblacional.
+                  p.m-0(style="position:relative") ● Procesos de migración.
+                  p.m-0(style="position:relative") ● Capacidad de respuesta territorial.
 
               .tarjeta.color-adicional-2.p-3(x="12%" y="59%" numero="+")
-                p.mb-0 #[b Clasificación de los residuos según su origen:] Esto quiere decir si son de origen doméstico proveniente de los hogares, origen comercial si son propias del comercio, industrial si son del sector industrial, de escombros y residuos de construcción del sector de construcción, residuos sanitarios si son de centros y establecimientos sanitarios, residuos mineros si son de minas, residuos agrícolas si son del sector agrícola
+                p.mb-0 #[b Estilos de vida:] 
+                  p.m-0(style="position:relative") ● Autocuidado.
+                  p.m-0(style="position:relative") ● Costumbres.
+                  p.m-0(style="position:relative") ● Conocimiento de la enfermedad.
+                  p.m-0(style="position:relative") ● Prácticas inadecuadas de almacenamiento de agua.
 
               .tarjeta.color-adicional-2.p-3(x="12%" y="87%" numero="+")
-                p.mb-0 #[b Clasificación de los residuos según su aprovechamiento:] Se clasifican en aprovechables y no aprovechables, esto depende de cada caso en particular del residuo que se esté tratando y su estado (calidad del residuo).
+                p.mb-0 #[b Factores ambientales:]
+                  p.m-0(style="position:relative") ● Área geográfica y clima.
+                  p.m-0(style="position:relative") ● Vivienda.
+                  p.m-0(style="position:relative") ● Existencia y continuidad del servicio de acueducto.
+                  p.m-0(style="position:relative") ● Disposición de residuos sólidos.
 
               .tarjeta.color-adicional-2.p-3(x="89%" y="31%" numero="+")
-                p.mb-0 #[b Clasificación de los residuos según su biodegradabilidad:] Quiere decir si es orgánico o inorgánico.
+                      p.mb-0 #[b Factores de huésped:] 
+                        p.m-0(style="position:relative") ● Edad.
+                        p.m-0(style="position:relative") ● Estado inmunitario.
+                        p.m-0(style="position:relative") ● Condiciones de salud específicas.
 
               .tarjeta.color-adicional-2.p-3(x="89%" y="58%" numero="+")
-                p.mb-0 #[b Clasificación según su composición:] Clasificación según tipos de materiales o componentes químicos de lo que esté hecho.
+                p.mb-0 #[b Factores del agente infeccioso:]
+                  p.m-0(style="position:relative") ● Serotipos del virus.
               
               .tarjeta.color-adicional-2.p-3(x="89%" y="86%" numero="+")
-                p.mb-0 #[b Clasificación según su composición:] Clasificación según tipos de materiales o componentes químicos de lo que esté hecho.
-
-
+                p.mb-0 #[b Factores del vector:] 
+                  p.m-0(style="position:relative") ● Abundancia y focos de proliferación.
+                  p.m-0(style="position:relative") ● Preferencia y disponibilidad de huéspedes.
+                  p.m-0(style="position:relative") ● Susceptibilidad a la infección.
+                  p.m-0(style="position:relative") ● Frecuencia de alimentación.
+                  p.m-0(style="position:relative") ● Densidad de hembra.
       
 </template>
 

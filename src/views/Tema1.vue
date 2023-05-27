@@ -110,7 +110,7 @@
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10
         h4.m-4(data-aos="fade").text-center 
-          b Algunos concejos para combatirlo:
+          b Algunos consejos para combatirlo:
 
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10

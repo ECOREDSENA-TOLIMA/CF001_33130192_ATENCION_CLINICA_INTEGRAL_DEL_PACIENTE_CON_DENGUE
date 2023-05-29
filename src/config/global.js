@@ -382,18 +382,23 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Oscar Iván Uribe',
-          cargo: 'Diseñador web',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
-        },
-        {
           nombre: 'Cristian Mauricio Otálora Clavijo',
           cargo: 'Desarrollador Fullstack',
           centro: 'Centro de Comercio y Servicios Regional Tolima',
         },
         {
+          nombre: 'Davison Gaitán Escobar',
+          cargo: 'Actividad Didáctica',
+          centro: 'Centro de Comercio y Servicios Regional Tolima',
+        },
+        {
           nombre: 'Oleg Litvin',
           cargo: 'Animador y Producción audiovisual',
+          centro: 'Centro de Comercio y Servicios Regional Tolima',
+        },
+        {
+          nombre: 'Oscar Iván Uribe',
+          cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios Regional Tolima',
         },
       ],

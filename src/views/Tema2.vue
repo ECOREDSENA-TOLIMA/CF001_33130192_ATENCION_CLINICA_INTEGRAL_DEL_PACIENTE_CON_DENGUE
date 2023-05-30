@@ -51,8 +51,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.text-white.mb-1 Lineamientos normativos para interpretación, traducción y discapacidad
-                  p.text-small.text-white Denominación y normativa.
+                  h3.text-white.mb-1 Se debe revisar en el siguiente anexo los nuevos criterios del Plan Decenal de Salud Pública 2022-2031:
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/plan_decenal.pdf')" target="_blank")
                     span Descargar
@@ -72,7 +71,7 @@
         figure
           img.pb-0.my-0(src="@/assets/curso/tema2/4.png" data-aos="zoom-in-up")
           .cajon.color-secundario.p-4.mt-0.col-lg-10.m-auto(style="background-color:#F2FBE6;")
-            p.mb-0(data-aos="fade-up") Estos objetivos de control como su nombre lo indica, representa aquello que se busca obtener con la aplicación de los controles de seguridad, de tal manera que, en un ejercicio de aplicación, su adopción corresponde a las necesidades y problemas que la organización quiere abordar.
+            p.mb-0(data-aos="fade-up") Dentro de la estrategia se incluye el componente clínico con el objeto de dar cumplimiento a las metas establecidas a nivel nacional, que para el caso de dengue es reducción del 10 % de la letalidad en el periodo 2022-2031, siendo necesario el desarrollo de capacidades del personal asistencial, garantizar calidad en los servicios de salud, optimizar la capacidad resolutiva de los servicios de nivel primario y complementario, mantener un adecuado monitoreo del paciente en todo momento del curso clínico de la enfermedad y generar lineamientos clínicos conforme a la evidencia disponible.
 
     Separador.mt-5
 
@@ -80,7 +79,8 @@
     .titulo-segundo.color-secundario
       h2(data-aos="fade-right") 2.3 Rutas Integrales de Atención en Salud
 
-      p A continuación, puede conocer algunas herramientas que permiten la accesibilidad:
+      p Las RIAS son las herramientas de implementación de la Línea en Salud Pública del modelo operativo actual en salud.
+      p De acuerdo con lo presentado a continuación, se debe revisar e identificar el manejo de las rutas integrales de salud para las ETV:
 
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10
@@ -89,24 +89,24 @@
           SlyderA(tipo="b")
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
-                h4 SMIL
-                p Desarrollado por W3C. Son presentaciones multimedia compuestas por elementos sonoros, videos, imágenes y textos almacenados separadamente y luego presentados simultáneamente cuando se ejecuta la presentación. Se pueden activar subtítulos y descripciones auditivas.
+                h4 Resolución 3280 de 2018 
+                p Mediante la ruta de promoción y mantenimiento de la salud (Resolución 3280 de 2018), se organizan las atenciones en ordenadores según el tipo de intervención en momentos de curso de vida (primera infancia, infancia, niñez, adolescencia, juventud, adultez y vejez) y entornos (hogar, comunitario, educativo institucional y laboral), en donde el programa aporta al resultado de impacto de personas sin mortalidad evitable y al resultados intermedio de personas que habitan en entornos saludables, medido por el indicador de proporción de focos de ETV controlados con acciones integrales de prevención y control.
               .col-lg-7
                 figure
                   img(src='@/assets/curso/tema2/7.png', style="width:650px").m-auto
 
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
-                h4 SAMI
-                p #[i Synchronized Accesible Media Interchange] es una especificación de Microsoft que incorpora los subtítulos al dispositivo Windows Media Player. Se emplea para describir presentaciones multimedia, es decir, presentaciones en las que se puede combinar texto (con formato), imágenes, audio y video. SMIL es un lenguaje de marcado basado en XML.
+                h4 Prevención y control de vectores
+                p Esta Ruta incluye dentro de las intervenciones colectivas la prevención y control de vectores, definidos como:  #[i “Conjunto de procedimientos para la planificación, organización, implementación, monitoreo y evaluación de actividades para la intervención regular y contingencial de factores de riesgo ambientales y comportamentales orientadas a prevenir o minimizar la propagación de vectores y reducir el contacto entre patógenos y el ser humano”]
               .col-lg-7
                 figure
                   img(src='@/assets/curso/tema2/8.png', style="width:650px").m-auto
                   
             .row.align-items-center.m-1
               .col-lg-5.mb-4.mb-lg-0
-                h4 Dragon Naturally Speaking
-                p Aplicación de reconocimiento de voz para generar subtítulos sin tener que exportar texto de un editor. Es un programa de reconocimiento de voz disponible en varios idiomas, Con él se puede redactar documentos, escribir correos electrónicos, navegar por Internet o usar Windows, todo con muy alta precisión.
+                h4 Plan Decenal de Salud 2022-2031
+                p Establece en el eje estratégico No 4 denominado “Gestión de Riesgos en Salud Pública”, la “Implementación de modelos para la gestión integral de riesgos en salud pública”, lo cual permite avanzar en la ruta de intervenciones para el grupo de riesgo de enfermedades infecciosas transmitidas por vectores, conforme lo estableció la Resolución 3202 de 2016, el cual deber ser implementada y conocida por los diferentes actores del sistema.
               .col-lg-7
                 figure
                   img(src='@/assets/curso/tema2/9.png', style="width:650px").m-auto

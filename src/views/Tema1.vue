@@ -106,6 +106,22 @@
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/12.png' alt='8')
+      .tarjeta.bg-8.text-center.p-4
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema1/13.png' alt='9')
+      .tarjeta.bg-8.text-center.p-4
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema1/14.png' alt='10')
+      .tarjeta.bg-8.text-center.p-4
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema1/15.png' alt='11')
+      .tarjeta.bg-8.text-center.p-4
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema1/16.png' alt='12')
 
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10

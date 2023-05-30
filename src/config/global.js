@@ -141,14 +141,14 @@ export default {
       tema: '¿Qué es el dengue?',
       referencia: 'Organización Panamericana de la Salud. (2022). Dengue.',
       tipo: 'Página web',
-      descarga: 'https://www.paho.org/es/temas/dengue',
+      link: 'https://www.paho.org/es/temas/dengue',
     },
     {
       tema: 'Epistemología',
       referencia:
         'Instituto Nacional de Salud (2022). Acceso a información epidemiológica nacional.',
       tipo: 'Página web',
-      descarga:
+      link:
         'https://www.ins.gov.co/buscador-eventos/Paginas/Vista-Boletin-Epidemilogico.aspx',
     },
     {
@@ -156,7 +156,7 @@ export default {
       referencia:
         'Instituto Nacional de Salud (2022). Gestión para la vigilancia entomológica y control de transmisión de dengue. Documento técnico.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/gestion-vigilancia-entomologica-dengue.pdf',
     },
     {
@@ -165,7 +165,7 @@ export default {
       referencia:
         'Ministerio de Salud y Protección Social. Plan Decenal de Salud Pública. PDSP 2012-2021. La salud en Colombia la construyes tú.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/ED/PSP/PDSP.pdf',
     },
     {
@@ -174,7 +174,7 @@ export default {
       referencia:
         'Resolución Número 1035 DE 2022. [Ministerio de Salud y Protección Social]. Por el cual se adopta el Plan Decenal de Salud Pública 2022-2031 con sus capítulos diferenciales: indígena para los pueblos y comunidades indígenas de Colombia, población víctima de conflicto armado, el Pueblo Rrom y la población negra, afrocolombiana, raizal y palenquera. 14 de junio de 2022.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%c3%b3n%20No.%201035%20de%202022.pdf',
     },
     {
@@ -182,7 +182,7 @@ export default {
       referencia:
         'Ministerio de Salud y Protección Social. (2017). Lineamiento táctico y operativo de la estrategia de gestión integrada para las enfermedades transmitidas por vectores (EGI-ETV) a nivel territorial.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/PAI/Lineamiento-Tatico-operativo-egi-Etv.pdf',
     },
     {
@@ -190,7 +190,7 @@ export default {
       referencia:
         'Organización Panamericana de la Salud Ministerio de Salud y Protección Social. (2016). Plan estratégico del subprograma de dengue chikunguña 2014- 2021 en el marco de la EGI ETV y articulado al plan nacional mesoamericano de dengue – chikunguña.',
       tipo: 'Documento',
-      descarga:
+      link:
         'http://www.proyectomesoamerica.org:8088/smsp/phocadownload/Institucional/PlanesNacionales/PNDengue/COL%20PN%20Dengue.pdf',
     },
     {
@@ -198,7 +198,7 @@ export default {
       referencia:
         'Ministerio de Salud y Protección Social (2016). Ruta de atención de dengue.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.minsalud.gov.co/Documents/NOTICIAS%20OFICINA%20COMUNICACIONES/Salud/dengue/Ruta%20Dengue.pdf',
     },
   ],
@@ -364,17 +364,17 @@ export default {
         {
           nombre: 'Juan Gilberto Giraldo Córtes',
           cargo: 'Diseñador Instruccional',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Humberto Arias Díaz',
           cargo: 'Diseñador Instruccional',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'María Inés Machado López',
           cargo: 'Metodologa',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -384,22 +384,22 @@ export default {
         {
           nombre: 'Cristian Mauricio Otálora Clavijo',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Davison Gaitán Escobar',
           cargo: 'Actividad Didáctica',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oleg Litvin',
           cargo: 'Animador y Producción audiovisual',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: 'Oscar Iván Uribe',
           cargo: 'Diseñador web',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -409,12 +409,12 @@ export default {
         {
           nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
           nombre: ' Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Centro de Comercio y Servicios Regional Tolima',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },

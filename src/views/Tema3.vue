@@ -10,16 +10,16 @@
     .row.align-items-center.mb-5      
       .col
         p(data-aos="fade-up") En primer lugar, es importante contextualizar que el sistema de vigilancia en salud pública se crea y reglamenta en el 
-          b Decreto 3518 de 2006,
+          b Decreto 3518 de 2006, 
           | posteriormente unificado en el título 8 del 
-          b Decreto 780 de 2016,
+          b Decreto 780 de 2016, 
           | único reglamentario del sector salud, cuyo objetivo es el de tener acceso a la información de forma sistemática y oportuna sobre la dinámica de los eventos de interés en salud pública con el fin de orientar la toma de decisiones, es decir la política en salud pública para la prevención y control de las enfermedades y factores de riesgo en salud. Dicho sistema de vigilancia es dirigido por el Ministerio de Salud y Protección Social y el desarrollo de las acciones que garantizan su operación en las áreas de su competencia corresponden al Instituto Nacional de Salud.
 
     .row.justify-content-center.color-adicional-1(data-aos="fade-right")
       .col-lg-10
         p.my-5(data-aos="fade-up") El sistema de vigilancia utiliza unos procesos que incluyen la recolección y organización de datos, su análisis, interpretación y difusión de información generada, cuyo proceso está definido en los protocolos de vigilancia en salud pública. Adicional a esto, se establece que todos los integrantes del sistema que generen información de salud pública deben realizar la notificación de eventos definidos en los lineamientos de salud pública, en los tiempos, sistemas y canales establecidos para tal fin.
         .titulo-sexto.color-acento-contenido.mb-1
-          p.mb-0 #[b Figura 3] Casos notificados de dengue en Colombia 2008 a 2021. 
+          p.mb-0 #[b Figura 5] Portada de los lineamientos de Vigilancia en Salud Pública, Colombia, 2019-2022.
         figure
           img.py-5(src="@/assets/curso/tema3/1.png" data-aos="zoom-in-up")
           .cajon.color-secundario.p-4.mt-0.col-lg-12.m-auto.pb-1(style="background-color:#F2FBE6;")

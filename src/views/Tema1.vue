@@ -122,6 +122,18 @@
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/16.png' alt='12')
+      .tarjeta.bg-8.text-center.p-4
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema1/25.png' alt='13')
+      .tarjeta.bg-8.text-center.p-4
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema1/26.png' alt='14')
+      .tarjeta.bg-8.text-center.p-4
+        .row.justify-content-center.mb-3
+          .col-12
+            img(src='@/assets/curso/tema1/27.png' alt='15')
 
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10

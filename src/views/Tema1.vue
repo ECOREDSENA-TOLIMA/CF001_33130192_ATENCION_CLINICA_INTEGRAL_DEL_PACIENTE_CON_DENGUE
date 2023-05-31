@@ -45,11 +45,11 @@
         h2#t_1_1 1.1  Forma de transmisión
 
     p(data-aos="fade-up" style="position:relative") El vector que transmite la enfermedad es un mosquito hembra de la familia 
-      b Culicidae
+      b #[i Culicidae]
       |, género Aedes, que tiene dos especies: 
-      b Aedes aegypti 
+      b #[i Aedes aegypti] 
       | y 
-      b Aedes albopictuscomo
+      b #[i Aedes albopictuscomo]
       |; así se muestra en la siguiente figura 1:
 
     
@@ -61,17 +61,32 @@
     p(data-aos="fade-up" style="position:relative") El mosquito pasa por cuatro estados evolutivos, tres acuáticos que van de huevo a larva, de larva a pupa y una fase aérea cuando el mosquito es adulto. Este mosquito tiene una vida media de 4 a 6 semanas, donde la hembra adulta puede poner alrededor de 400 a 700 huevos en su vida. El tiempo del ciclo dependerá de las condiciones ambientales y se entiende que en condiciones óptimas varía entre 7 y 14 días aproximadamente. 
     p.mt-5(data-aos="fade-up" style="position:relative") En la siguiente infografía se presenta el ciclo de vida del Aedes, se debe revisar con atención el siguiente contenido.
 
-    
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10
+        ImagenInfografica.color-acento-botones.mb-5
+          template(v-slot:imagen)
+            figure
+            img(src="@/assets/curso/tema1/3.png" data-aos="zoom-in-up")
+
+          .tarjeta.color-adicional-2.p-3(x="73%" y="50%" numero="1")
+            p.mb-0 #[b Huevos:] Los mosquitos hembra depositan sus huevos en cualquier receptáculo que contenga agua.
+
+          .tarjeta.color-adicional-2.p-3(x="43%" y="80%" numero="2")
+            p.mb-0 #[b Larva:] Cuando los huevos se encuentran en un entorno acuoso, se produce el proceso de incubación, el cual puede durar desde unos cuantos días hasta meses.
+
+          .tarjeta.color-adicional-2.p-3(x="10%" y="50%" numero="3")
+            p.mb-0 #[b Crisálida:] Las larvas viven en el agua. Se convierten en crisálidas en tan solo 5 días.
+
+          .tarjeta.color-adicional-2.p-3(x="43%" y="20%" numero="4")
+            p.mb-0 #[b Adulto:] Las crisálidas viven en el agua. Demoran entre 2 a 3 días en convertirse en mosquitos adultos con capacidad de volar.
+
         figure
-          img(src="@/assets/curso/tema1/3.png" data-aos="zoom-in-up")      
-          img(src="@/assets/curso/tema1/4.png" data-aos="zoom-in-up")      
+          img.m-0(src="@/assets/curso/tema1/4.png" data-aos="zoom-in-up")      
 
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10
         p.py-5(data-aos="fade-up" style="position:relative") Revisando el siguiente material se podrá conocer los criaderos más comunes de 
-          b Aedes aegypti
+          b #[i Aedes aegypti]
     
     SlyderF.mb-5.text-center(columnas="col-lg-4 col-xl-4")
       .tarjeta.bg-8.text-center.p-4

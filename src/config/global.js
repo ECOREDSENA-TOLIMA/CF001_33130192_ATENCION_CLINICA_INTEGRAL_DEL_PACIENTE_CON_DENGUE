@@ -144,7 +144,7 @@ export default {
       link: 'https://www.paho.org/es/temas/dengue',
     },
     {
-      tema: 'Epistemología',
+      tema: 'Epidemiología',
       referencia:
         'Instituto Nacional de Salud (2022). Acceso a información epidemiológica nacional.',
       tipo: 'Página web',

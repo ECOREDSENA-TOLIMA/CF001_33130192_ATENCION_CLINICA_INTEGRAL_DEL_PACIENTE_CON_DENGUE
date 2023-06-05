@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal
       .titulo-principal__numero
         span 2
       h1 Dengue en el marco de la Política nacional de Salud
@@ -22,7 +22,7 @@
     Separador.mt-5
 
     .cont_2_1.pt-5.pb-5.mt-0(style="position:relative;")
-      .titulo-segundo(style="position:relative")
+      .titulo-segundo.color-secundario(style="position:relative")
         h2#t_2_1 2.1 Plan Decenal de Salud Pública
 
     p(data-aos="fade-up" style="position:relative") El Plan Decenal de Salud Pública 2012-2021 fue el instrumento de política adoptado a través de la Resolución 1841 de 2013 del Ministerio de Salud y Protección Social que definió el marco estratégico para la salud pública en Colombia e incorporó los enfoques de derechos, de ciclo de vida, de género, étnico, poblacional y el modelo de determinantes sociales de la salud para el logro de sus tres objetivos estratégicos:
@@ -51,7 +51,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.text-white.mb-1 Se debe revisar en el siguiente anexo los nuevos criterios del Plan Decenal de Salud Pública 2022-2031:
+                  p.text-white.mb-1 Se debe revisar en el siguiente anexo los nuevos criterios del Plan Decenal de Salud Pública 2022-2031:
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/plan_decenal.pdf')" target="_blank")
                     span Descargar
@@ -65,22 +65,54 @@
     
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10
-        figure
-          img.pb-5(src="@/assets/curso/tema2/3.png" data-aos="zoom-in-up")
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img.pb-5(src="@/assets/curso/tema2/3.svg" data-aos="zoom-in-up" alt=" PLISA Plataforma de Información en Salud para las Américas (s.f.).")
+        figure.movil.mt-0  
+          .row.justify-content-center.d-lg-none.d-md-none  
+            img.pb-5(src="@/assets/curso/tema2/3.1.svg" data-aos="zoom-in-up" alt=" PLISA Plataforma de Información en Salud para las Américas (s.f.).")
+      
         p.mb-5 Dicha estrategia ha sido adoptada y adaptada en cada uno de los territorios del país en el marco de los equipos funcionales nacionales y los diferentes espacios intersectoriales, en el desarrollo del programa nacional de las ETV y los subprogramas, que para este caso corresponde al subprograma de arbovirosis (dengue, chikunguña y zika) a través de los planes estratégicos de cada cuatrienio
-        figure
-          img.pb-0.my-0(src="@/assets/curso/tema2/4.png" data-aos="zoom-in-up")
-          .cajon.color-secundario.p-4.mt-0.col-lg-10.m-auto(style="background-color:#F2FBE6;")
-            p.mb-0(data-aos="fade-up") Dentro de la estrategia se incluye el componente clínico con el objeto de dar cumplimiento a las metas establecidas a nivel nacional, que para el caso de dengue es reducción del 10 % de la letalidad en el periodo 2022-2031, siendo necesario el desarrollo de capacidades del personal asistencial, garantizar calidad en los servicios de salud, optimizar la capacidad resolutiva de los servicios de nivel primario y complementario, mantener un adecuado monitoreo del paciente en todo momento del curso clínico de la enfermedad y generar lineamientos clínicos conforme a la evidencia disponible.
+        
+        .bloque-texto-a__texto.caja_escalada_hover.py-5(style="background-color: #E2E7FE; border-radius: 15px")
+          .row
+            .col-md-4
+              figure.m-4.px-3
+                img(src='@/assets/curso/tema2/4.svg', alt='')
+            .col-md-8
+              p.pt-3.pb-3(data-aos="fade-up") #[strong Laboratorios a realizar en pacientes del Grupo C: ]
+              ul.lista-ul--color
+                li
+                  i(style="color: #4462FE").fas.fa-circle.fa-xs
+                  | Posicionamiento político y administrativo sostenido.
+                li
+                  i(style="color: #4462FE").fas.fa-circle.fa-xs
+                  | Creación de entornos saludables a través de acciones de promoción, prevención y control de arbovirosis.
+                li
+                  i(style="color: #4462FE").fas.fa-circle.fa-xs
+                  | Sistema de vigilancia integral de las arbovirosis para la toma de decisiones.
+                li
+                  i(style="color: #4462FE").fas.fa-circle.fa-xs
+                  | Manejo clínico integral de casos de arbovirosis.
+                li
+                  i(style="color: #4462FE").fas.fa-circle.fa-xs
+                  | Detección y atención oportuna de brotes. 
+                li
+                  i(style="color: #4462FE").fas.fa-circle.fa-xs
+                  | Capacidad técnica y operativa y liderazgo técnico del subprograma.               
+            
+        
+        
+        .cajon.color-secundario.p-4.mt-0.col-lg-10.m-auto(style="background-color:#F2FBE6;")
+          p.mb-0(data-aos="fade-up") Dentro de la estrategia se incluye el componente clínico con el objeto de dar cumplimiento a las metas establecidas a nivel nacional, que para el caso de dengue es reducción del 10 % de la letalidad en el periodo 2022-2031, siendo necesario el desarrollo de capacidades del personal asistencial, garantizar calidad en los servicios de salud, optimizar la capacidad resolutiva de los servicios de nivel primario y complementario, mantener un adecuado monitoreo del paciente en todo momento del curso clínico de la enfermedad y generar lineamientos clínicos conforme a la evidencia disponible.
 
-    Separador.mt-5
+      Separador.mt-5
 
     #t_2_3
-    .titulo-segundo.color-secundario
-      h2(data-aos="fade-right") 2.3 Rutas Integrales de Atención en Salud
+      .titulo-segundo.color-secundario
+        h2(data-aos="fade-right") 2.3 Rutas Integrales de Atención en Salud
 
       p Las RIAS son las herramientas de implementación de la Línea en Salud Pública del modelo operativo actual en salud.
-      p De acuerdo con lo presentado a continuación, se debe revisar e identificar el manejo de las rutas integrales de salud para las ETV:
+      p.mb-5 De acuerdo con lo presentado a continuación, se debe revisar e identificar el manejo de las rutas integrales de salud para las ETV:
 
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10

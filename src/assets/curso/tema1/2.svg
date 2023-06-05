@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="199" viewBox="0 0 610 199">
+  <g id="Grupo_159721" data-name="Grupo 159721" transform="translate(-495 -1541)">
+    <rect id="Rectángulo_45746" data-name="Rectángulo 45746" width="190" height="199" transform="translate(495 1541)" fill="#a3b2ff"/>
+    <rect id="Rectángulo_45747" data-name="Rectángulo 45747" width="190" height="199" transform="translate(705 1541)" fill="#a3b2ff"/>
+    <rect id="Rectángulo_45748" data-name="Rectángulo 45748" width="190" height="199" transform="translate(915 1541)" fill="#a3b2ff"/>
+    <g id="Rectángulo_45710" data-name="Rectángulo 45710" transform="translate(942 1615)" fill="#fff" stroke="#bf4040" stroke-width="2">
+      <rect width="137" height="32" rx="6" stroke="none"/>
+      <rect x="-1" y="-1" width="139" height="34" rx="7" fill="none"/>
+    </g>
+    <g id="Rectángulo_45711" data-name="Rectángulo 45711" transform="translate(942 1679)" fill="#fff" stroke="#bf4040" stroke-width="2">
+      <rect width="137" height="32" rx="6" stroke="none"/>
+      <rect x="-1" y="-1" width="139" height="34" rx="7" fill="none"/>
+    </g>
+    <g id="Rectángulo_45713" data-name="Rectángulo 45713" transform="translate(742 1647)" fill="#fff" stroke="#4462fe" stroke-width="2">
+      <rect width="131" height="32" rx="6" stroke="none"/>
+      <rect x="-1" y="-1" width="133" height="34" rx="7" fill="none"/>
+    </g>
+    <g id="Rectángulo_45745" data-name="Rectángulo 45745" transform="translate(525 1647)" fill="#fff" stroke="#69489b" stroke-width="2">
+      <rect width="131" height="32" rx="6" stroke="none"/>
+      <rect x="-1" y="-1" width="133" height="34" rx="7" fill="none"/>
+    </g>
+    <text id="Ae_aegypti" data-name="Ae aegypti" transform="translate(952 1619)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="16.988" y="19">Ae aegypti</tspan></text>
+    <text id="Ae_albopictus" data-name="Ae albopictus" transform="translate(952 1683)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="4.385" y="19">Ae albopictus</tspan></text>
+    <text id="Aedes" transform="translate(749 1651)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="33.876" y="19">Aedes</tspan></text>
+    <text id="Culiciadae" transform="translate(531 1651)" fill="#12263f" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="17.283" y="19">Culiciadae</tspan></text>
+    <rect id="Rectángulo_45749" data-name="Rectángulo 45749" width="190" height="47" transform="translate(495 1541)" fill="#54397c"/>
+    <path id="Trazado_600397" data-name="Trazado 600397" d="M0,0H190V47H0Z" transform="translate(705 1541)" fill="#54397c"/>
+    <path id="Trazado_600398" data-name="Trazado 600398" d="M0,0H190V47H0Z" transform="translate(915 1541)" fill="#54397c"/>
+    <text id="Género" transform="translate(741 1555)" fill="#fff" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="30.08" y="19">Género</tspan></text>
+    <text id="Especies" transform="translate(951 1555)" fill="#fff" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="22.886" y="19">Especies</tspan></text>
+    <text id="Familia" transform="translate(531 1555)" fill="#fff" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="-29.259" y="19">Familia</tspan></text>
+    <path id="Trazado_599487" data-name="Trazado 599487" d="M-7931.705-10053l-58.81,32.593,58.81,32.1" transform="translate(8868 11684)" fill="none" stroke="#ade65f" stroke-width="3" stroke-dasharray="2"/>
+    <path id="Trazado_599488" data-name="Trazado 599488" d="M-8206.485-10020.652h74.256" transform="translate(8868 11684)" fill="none" stroke="#ade65f" stroke-width="3" stroke-dasharray="2"/>
+  </g>
+</svg>

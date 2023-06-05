@@ -19,13 +19,23 @@
       .col-lg-10
         p.my-5(data-aos="fade-up") El sistema de vigilancia utiliza unos procesos que incluyen la recolección y organización de datos, su análisis, interpretación y difusión de información generada, cuyo proceso está definido en los protocolos de vigilancia en salud pública. Adicional a esto, se establece que todos los integrantes del sistema que generen información de salud pública deben realizar la notificación de eventos definidos en los lineamientos de salud pública, en los tiempos, sistemas y canales establecidos para tal fin.
         .titulo-sexto.color-acento-contenido.mb-1
-          p.mb-0 #[b Figura 5] Portada de los lineamientos de Vigilancia en Salud Pública, Colombia, 2019-2022.
-        figure
-          img.py-5(src="@/assets/curso/tema3/1.png" data-aos="zoom-in-up")
-          .cajon.color-secundario.p-4.mt-0.col-lg-12.m-auto.pb-1(style="background-color:#F2FBE6;")
-            p.mb-0.py-3(data-aos="fade-up") Dado a lo anterior, es importante ver el papel del profesional clínico en el reporte de eventos de interés en salud pública, pues este reporte permite analizar datos y posteriormente definir acciones, dentro de este ámbito, con el objetivo de reducir los casos de morbilidad y mortalidad
-          Separador.mt-0
-  
+          p.mb-0 #[b Figura 5] 
+            i Portada de los lineamientos de Vigilancia en Salud Pública, Colombia, 2019-2022.
+
+        figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+          img.pt-5(src="@/assets/curso/tema3/1.png" data-aos="zoom-in-up" alt= "Portada de los lineamientos de Vigilancia en Salud Pública, Colombia, 2019-2022. En la figura se representa la portada del documento Lineamientos Nacionales para la Vigilancia 2022.  Anualmente es establecen unos lineamientos de vigilancia en salud pública en los cuales se definen las líneas de acción obligatorias para la vigilancia basada en notificación rutinaria de casos predefinidos, incluyendo la detección, valoración y modificación del riesgo de los eventos de interés en salud pública en el territorio colombiano.")
+        figure.movil.mt-0  
+          .row.justify-content-center.d-lg-none.d-md-none  
+            img.pb-5(src="@/assets/curso/tema3/3.png" data-aos="zoom-in-up" alt= "Portada de los lineamientos de Vigilancia en Salud Pública, Colombia, 2019-2022. En la figura se representa la portada del documento Lineamientos Nacionales para la Vigilancia 2022.  Anualmente es establecen unos lineamientos de vigilancia en salud pública en los cuales se definen las líneas de acción obligatorias para la vigilancia basada en notificación rutinaria de casos predefinidos, incluyendo la detección, valoración y modificación del riesgo de los eventos de interés en salud pública en el territorio colombiano.")
+                      
+        .col
+          .bloque-texto-a__texto.caja_escalada_hover(style="background-color: #F6F6F6;")
+            p.py-3.px-5(data-aos="fade-up") Nota. Instituto Nacional de Salud, Colombia, (s.f.).
+                  
+        .cajon.color-acento-contenido.p-4.mt-0.col-lg-12.m-auto.pb-1(style="background-color:#F2FBE6;")
+          p.mb-0.py-3(data-aos="fade-up") Dado a lo anterior, es importante ver el papel del profesional clínico en el reporte de eventos de interés en salud pública, pues este reporte permite analizar datos y posteriormente definir acciones, dentro de este ámbito, con el objetivo de reducir los casos de morbilidad y mortalidad
+        Separador.mt-0
+
     .row.align-items-center.my-5.col-lg-10.m-auto        
       .col-auto
         figure

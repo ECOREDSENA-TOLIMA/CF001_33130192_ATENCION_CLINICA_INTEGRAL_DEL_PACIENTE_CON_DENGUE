@@ -3,8 +3,8 @@ export default {
     componenteFormativo: 'Marco normativo y conceptual',
     descripcionCurso:
       'En este componente formativo se abordarán los conceptos básicos relacionados con el dengue desde su definición como enfermedad, pasando a la epidemiología en Colombia y las políticas públicas vigentes para contribuir en la reducción de la morbilidad y mortalidad por esta causa, este es un contexto general para los profesionales que llevan a cabo el abordaje clínico de los casos y para la comprensión del dengue como evento de interés en salud pública priorizado dentro del gobierno nacional.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-mujer.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/banner_principal_0.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

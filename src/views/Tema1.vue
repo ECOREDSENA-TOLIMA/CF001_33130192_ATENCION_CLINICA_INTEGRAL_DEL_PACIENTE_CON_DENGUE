@@ -283,20 +283,39 @@
       .col-lg-10
         h4.m-4(data-aos="fade").text-center 
           b Algunos consejos para combatirlo:
-
         .row.mb-3
+
           .col-sm-12.col-md-6.col-lg-3
-            figure.py-1
-              img(src='@/assets/curso/tema1/28.svg', alt='Renovar el agua de recipientes cada 3 días.')
+            .tarjeta.color-secundario.p-4
+              .row.justify-content-center.mb-3
+                ul
+                  li
+                    i.fas.fa-circle(style="color: #ADE65F")
+                    |  Renovar el agua de recipientes cada 3 días.
+          
           .col-sm-12.col-md-6.col-lg-3
-            figure.py-1
-              img(src='@/assets/curso/tema1/29.svg', alt='Lavar muy bien con agua y jabón las paredes internas.')
+            .tarjeta.color-secundario.p-4
+              .row.justify-content-center.mb-3
+                ul
+                  li
+                    i.fas.fa-circle(style="color: #ADE65F")
+                    |  Lavar muy bien con agua y jabón las paredes internas.
+
           .col-sm-12.col-md-6.col-lg-3
-            figure.py-1
-              img(src='@/assets/curso/tema1/30.svg', alt='Instalas mosquiteros en puertas y ventanas.')
+            .tarjeta.color-secundario.p-4
+              .row.justify-content-center.mb-3
+                ul
+                  li
+                    i.fas.fa-circle(style="color: #ADE65F")
+                    |  Instalas mosquiteros en puertas y ventanas.
+
           .col-sm-12.col-md-6.col-lg-3
-            figure.py-1
-              img(src='@/assets/curso/tema1/31.svg', alt='Hacer uso de repelentes.')   
+            .tarjeta.color-secundario.p-4
+              .row.justify-content-center.mb-3
+                ul
+                  li
+                    i.fas.fa-circle(style="color: #ADE65F")
+                    |  Hacer uso de repelentes.
 
           p.mt-4(data-aos="fade-up" style="position:relative") De acuerdo con la literatura, el vector asociado a la transmisión del dengue es el Aedes aegypti que en Colombia ha sido reportado por parte de la vigilancia entomológica por debajo de los 2.200 metros de altura sobre el nivel del mar (m s. n. m.) en cerca de 846 municipios de los 32 departamentos de Colombia, con una mayor densidad en la región Central y Caribe
     

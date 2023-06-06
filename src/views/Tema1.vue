@@ -290,7 +290,7 @@
               .row.justify-content-center.mb-3
                 ul
                   li
-                    i.fas.fa-circle(style="color: #ADE65F")
+                    i.fa-xs.fas.fa-circle(style="color: #ADE65F")
                     |  Renovar el agua de recipientes cada 3 días.
           
           .col-sm-12.col-md-6.col-lg-3
@@ -298,7 +298,7 @@
               .row.justify-content-center.mb-0
                 ul
                   li
-                    i.fas.fa-circle(style="color: #ADE65F")
+                    i.fa-xs.fas.fa-circle(style="color: #ADE65F")
                     |  Lavar muy bien con agua y jabón las paredes internas.
 
           .col-sm-12.col-md-6.col-lg-3
@@ -306,7 +306,7 @@
               .row.justify-content-center.mb-3
                 ul
                   li
-                    i.fas.fa-circle(style="color: #ADE65F")
+                    i.fa-xs.fas.fa-circle(style="color: #ADE65F")
                     |  Instalas mosquiteros en puertas y ventanas.
 
           .col-sm-12.col-md-6.col-lg-3
@@ -314,7 +314,7 @@
               .row.justify-content-center.mb-3
                 ul
                   li
-                    i.fas.fa-circle(style="color: #ADE65F")
+                    i.fa-xs.fas.fa-circle(style="color: #ADE65F")
                     |  Hacer uso de repelentes.
 
           p.mt-4(data-aos="fade-up" style="position:relative") De acuerdo con la literatura, el vector asociado a la transmisión del dengue es el Aedes aegypti que en Colombia ha sido reportado por parte de la vigilancia entomológica por debajo de los 2.200 metros de altura sobre el nivel del mar (m s. n. m.) en cerca de 846 municipios de los 32 departamentos de Colombia, con una mayor densidad en la región Central y Caribe

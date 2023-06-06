@@ -55,23 +55,23 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Dengue en el marco de la Política nacional de Salud',
+        titulo: 'Dengue en el marco de la política nacional de salud',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Plan Decenal de Salud Pública',
+            titulo: 'Plan decenal de salud pública',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
             titulo:
-              'Estrategia de Gestión Integral de las ETV (Enfermedades Transmitidas por Vectores)',
+              'Estrategia de gestión integral de las ETV (enfermedades transmitidas por vectores)',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Rutas Integrales de Atención en Salud',
+            titulo: 'Rutas integrales de atención en salud',
             hash: 't_2_3',
           },
         ],
@@ -80,7 +80,7 @@ export default {
         nombreRuta: 'tema3',
         numero: '3',
         titulo:
-          'Sistema de vigilancia en salud pública: Protocolos y lineamiento de Vigilancia en Salud Pública',
+          'Sistema de vigilancia en salud pública: Protocolos y lineamiento de vigilancia en salud pública',
         desarrolloContenidos: true,
       },
       {

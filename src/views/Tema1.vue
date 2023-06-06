@@ -295,7 +295,7 @@
           
           .col-sm-12.col-md-6.col-lg-3
             .tarjeta.color-secundario.p-4
-              .row.justify-content-center.mb-3
+              .row.justify-content-center.mb-0
                 ul
                   li
                     i.fas.fa-circle(style="color: #ADE65F")

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Sistema de vigilancia en salud pública: Protocolos y lineamiento de Vigilancia en Salud Pública
+      h1 Sistema de vigilancia en salud pública: Protocolos y lineamiento de vigilancia en salud pública
 
     .row.align-items-center.mb-5      
       .col

@@ -120,8 +120,13 @@ export default {
       },
       {
         icono: 'fas fa-download',
+        titulo: 'Descargar pdf',
+        download: 'downloads/CFA_1_33130192.pdf',
+      },
+      {
+        icono: 'fas fa-download',
         titulo: 'Descargar material',
-        download: 'downloads/material.zip',
+        download: 'downloads/material.rar',
       },
       {
         icono: 'far fa-registered',

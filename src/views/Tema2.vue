@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Dengue en el marco de la Política nacional de Salud
+      h1 Dengue en el marco de la política nacional de salud
 
     .row.align-items-center.mb-5      
       .col
@@ -23,7 +23,7 @@
 
     .cont_2_1.pt-5.pb-5.mt-0(style="position:relative;")
       .titulo-segundo.color-secundario(style="position:relative")
-        h2#t_2_1 2.1 Plan Decenal de Salud Pública
+        h2#t_2_1 2.1 Plan decenal de salud pública
 
     p(data-aos="fade-up" style="position:relative") El Plan Decenal de Salud Pública 2012-2021 fue el instrumento de política adoptado a través de la Resolución 1841 de 2013 del Ministerio de Salud y Protección Social que definió el marco estratégico para la salud pública en Colombia e incorporó los enfoques de derechos, de ciclo de vida, de género, étnico, poblacional y el modelo de determinantes sociales de la salud para el logro de sus tres objetivos estratégicos:
         
@@ -60,7 +60,7 @@
 
     #t_2_2
     .titulo-segundo.color-secundario
-      h2(data-aos="fade-right") 2.2 Estrategia de Gestión Integral de las ETV (Enfermedades Transmitidas por Vectores)
+      h2(data-aos="fade-right") 2.2 Estrategia de gestión integral de las ETV (enfermedades transmitidas por vectores)
     p.mb-4(data-aos="fade-left") La Estrategia de Gestión Integral de las Enfermedades Transmitidas por Vectores (EGI ETV), corresponde al modelo de gestión para lograr la reducción de la carga económica y social producto de las ETV en poblaciones a riesgo y a partir de esta, se definieron los planes estratégicos para la operación de los programas de las 37 direcciones territoriales del país (32 departamentos y 6 distritos), del PDSP 2022-2031. 
     
     .row.justify-content-center(data-aos="fade-right")
@@ -109,7 +109,7 @@
 
     #t_2_3
       .titulo-segundo.color-secundario
-        h2(data-aos="fade-right") 2.3 Rutas Integrales de Atención en Salud
+        h2(data-aos="fade-right") 2.3 Rutas integrales de atención en salud
 
       p Las RIAS son las herramientas de implementación de la Línea en Salud Pública del modelo operativo actual en salud.
       p.mb-5 De acuerdo con lo presentado a continuación, se debe revisar e identificar el manejo de las rutas integrales de salud para las ETV:

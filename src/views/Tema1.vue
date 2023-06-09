@@ -7,7 +7,7 @@
         span 1
       h1 ¿Qué es el dengue?
 
-    p.mt-5(data-aos="fade-up") El dengue es una enfermedad viral aguda que es transmitida por la picadura del mosquito hembra de la especie Aedes Aegypti, está puede afectar a cualquier persona; sin embargo, existe un riesgo mayor de complicaciones en personas mayores de 65 años o con comorbilidades. 
+    p.mt-5(data-aos="fade-up") El dengue es una enfermedad viral aguda que es transmitida por la picadura del mosquito hembra de la especie Aedes Aegypti, esta puede afectar a cualquier persona; sin embargo, existe un riesgo mayor de complicaciones en personas mayores de 65 años o con comorbilidades. 
     
     p.mt-2(data-aos="fade-up") Se reconoce un espectro de manifestaciones de la enfermedad que va desde procesos asintomáticos hasta cuadros severos que pueden llevar a la muerte. 
     

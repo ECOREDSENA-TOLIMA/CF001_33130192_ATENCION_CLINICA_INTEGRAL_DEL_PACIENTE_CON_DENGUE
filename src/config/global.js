@@ -66,7 +66,7 @@ export default {
           {
             numero: '2.2',
             titulo:
-              'Estrategia de gestión integral de las ETV (enfermedades transmitidas por vectores)',
+              'Estrategia de gestión de las ETV (enfermedades transmitidas por vectores)',
             hash: 't_2_2',
           },
           {

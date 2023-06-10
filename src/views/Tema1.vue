@@ -13,7 +13,7 @@
     
     p.mb-5(data-aos="fade-up") Para profundizar en el concepto del dengue se debe revisar con atención el siguiente material:
 
-    figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+    figure.pb-4
       .row.justify-content-center(data-aos="fade-right")
         .col-lg-10
           ImagenInfografica.color-acento-botones.mb-0
@@ -22,22 +22,22 @@
               img(src="@/assets/curso/tema1/1.png" data-aos="zoom-in-up"  alt="Enfermedad viral aguda que puede afectar especialmente niños y adultos mayores, los síntomas son fiebre alta, sarpullido y dolor en los músculos y las articulaciones. En los casos más graves puede haber hemorragia profusa y un shock, que pueden llevar a la muerte.")
 
             .tarjeta.color-adicional-2.p-3(x="46%" y="20%" numero="1")
-              p.mb-0 #[b Concepto:] Es un virus RNA (Ácido Ribonucleico) que pertenece al género Flavivirus, de la familia Flaviviridae que, a la vez, pertenece al grupo de los Arbovirus, que quiere decir virus transmitidos por artrópodos; así como el virus Chikungunya, Zika o la encefalitis.
+              p.mb-0 #[b Concepto:] es un virus RNA (Ácido Ribonucleico) que pertenece al género Flavivirus, de la familia Flaviviridae que, a la vez, pertenece al grupo de los Arbovirus, que quiere decir virus transmitidos por artrópodos; así como el virus Chikungunya, Zika o la encefalitis.
 
             .tarjeta.color-adicional-2.p-3(x="33%" y="50%" numero="2")
-              p.mb-0 #[b Flaviviridae:] Es una familia de virus que se propagan principalmente por vectores artrópodos, la etimología del nombre de esta familia proviene del latín Flavus, que significa amarillo. Los flavivirus son virus pequeños (40 - 60 nm).
+              p.mb-0 #[b Flaviviridae:] es una familia de virus que se propagan principalmente por vectores artrópodos, la etimología del nombre de esta familia proviene del latín Flavus, que significa amarillo. Los flavivirus son virus pequeños (40 - 60 nm).
 
             .tarjeta.color-adicional-2.p-3(x="50%" y="50%" numero="3")
-              p.mb-0 #[b Flavivirus:] Virus transmitidos por artrópodos, principalmente por especies de mosquitos de los géneros Aedes y Culex que se detectan principalmente en zonas tropicales y subtropicales.
+              p.mb-0 #[b Flavivirus:] virus transmitidos por artrópodos, principalmente por especies de mosquitos de los géneros Aedes y Culex que se detectan principalmente en zonas tropicales y subtropicales.
 
             .tarjeta.color-adicional-2.p-3(x="66.5%" y="50%" numero="4")
-              p.mb-0 #[b Virus dengue:] Enfermedad viral aguda que puede afectar especialmente niños y adultos mayores, los síntomas son fiebre alta, sarpullido y dolor en los músculos y las articulaciones. En los casos más graves puede haber hemorragia profusa y un shock, que pueden llevar a la muerte.
+              p.mb-0 #[b Virus dengue:] enfermedad viral aguda que puede afectar especialmente niños y adultos mayores, los síntomas son fiebre alta, sarpullido y dolor en los músculos y las articulaciones. En los casos más graves puede haber hemorragia profusa y un shock, que pueden llevar a la muerte.
 
             .tarjeta.color-adicional-2.p-3(x="83.5%" y="43%" numero="5")
-              p.mb-0 #[b Serotipos:] Existen 4 serotipos de este virus: DENV-1, DENV-2, DENV-3 y DENV-4. Cada infección por un serotipo produce inmunidad permanente contra este. La infección sucesiva con dos o más serotipos diferentes incrementa el riesgo de la enfermedad lo que se debe al fenómeno denominado “amplificación de la infección dependiente de anticuerpos”.
+              p.mb-0 #[b Serotipos:] existen 4 serotipos de este virus: DENV-1, DENV-2, DENV-3 y DENV-4. Cada infección por un serotipo produce inmunidad permanente contra este. La infección sucesiva con dos o más serotipos diferentes incrementa el riesgo de la enfermedad lo que se debe al fenómeno denominado “amplificación de la infección dependiente de anticuerpos”.
             
             .tarjeta.color-adicional-2.p-3(x="46%" y="90%" numero="6")
-              p.mb-0 #[b En Colombia:] Existe evidencia de la circulación de los cuatro serotipos del virus y la proporción de serotipos circulantes por direcciones territoriales de salud, es decir, departamentos y distritos se constituye como uno de los indicadores de vigilancia en salud pública para medir el riesgo de transmisión, presentación de brotes y complicación de casos.
+              p.mb-0 #[b En Colombia:] existe evidencia de la circulación de los cuatro serotipos del virus y la proporción de serotipos circulantes por direcciones territoriales de salud, es decir, departamentos y distritos se constituye como uno de los indicadores de vigilancia en salud pública para medir el riesgo de transmisión, presentación de brotes y complicación de casos.
 
     figure.movil
       .row.justify-content-center.d-lg-none.d-md-none
@@ -69,9 +69,9 @@
             .col-sm-12.col-lg-8
               .row.justify-content-center(data-aos="fade-right")
                 .col-sm-12.col-lg-12
-                  .titulo-sexto.mb-5
+                  .titulo-sexto.mb-5.color-acento-contenido.mb-1
                     p.mb-0 #[b Figura 1] 
-                      i Taxonomía del vector.  
+                      i Taxonomía del vector.                  
 
           .row.justify-content-center(data-aos="fade-right")
             .col-lg-8
@@ -307,7 +307,7 @@
                 ul
                   li
                     i.fa-xs.fas.fa-circle(style="color: #ADE65F")
-                    |  Instalas mosquiteros en puertas y ventanas.
+                    |  Instalar mosquiteros en las ventanas.
 
           .col-sm-12.col-md-6.col-lg-3
             .tarjeta.color-secundario.p-4
@@ -328,7 +328,6 @@
           b Ciclo de transmisión
 
       p.mt-5(data-aos="fade-up" style="position:relative") El proceso de infección del dengue se da cuando un mosquito hembra pica a una persona infectada e ingiere la sangre con el virus, por lo que el mosquito se infecta después de un periodo de incubación que puede estar entre 8 y 12 días (incubación extrínseca). Posteriormente, el mosquito hembra infectado pica a un humano no infectado y le transmite el virus, incubándose por un periodo aproximado de 5 a 7 días (incubación intrínseca), liberando grandes cantidades de virus (viremia) que permanece por un periodo máximo estimado de siete días en el humano.
-      p.mt-3(data-aos="fade-up" style="position:relative") Para profundizar en el ciclo de transmisión del dengue se debe revisar con atención el siguiente material:
       
       .row.justify-content-center(data-aos="fade-right")
         .col-lg-10
@@ -338,7 +337,24 @@
           figure.movil.mt-0
             .row.justify-content-center.d-lg-none.d-md-none        
               img(src="@/assets/curso/tema1/19.svg" data-aos="zoom-in-up")
-        
+
+          h4(data-aos="fade")
+            b Ciclo de transmisión del dengue 
+          
+          p.mt-3(data-aos="fade-up" style="position:relative") El mosquito pica a la persona con dengue, posteriormente el mosquito infectado pica a una persona sana, finalmente la persona enferma con dengue. 
+
+          h4.m-4(data-aos="fade").text-center
+           
+            p.mb-0 #[b Imagen 4:] 
+              i Viremia de transmisión del virus. 
+          
+          figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+            .row.justify-content-center(data-aos="fade-right")
+              img(src="@/assets/curso/tema1/18.1.svg" data-aos="zoom-in-up" alt=" iclo de transmisión del dengue. En la infografía se representa que el ciclo de transmisión del dengue inicia con un mosquito que pica a una persona con dengue, por lo que el mosquito se infecta y pica a otra persona sana enfermandola, tambien se observa en la inforgrafía que después de un periodo de incubación que puede estar entre 8 y 12 días (incubación extrínseca). Posteriormente, el mosquito hembra infectado pica a un humano no infectado y le transmite el virus, incubándose por un periodo aproximado de 5 a 7 días (incubación intrínseca). ")
+          figure.movil.mt-0
+            .row.justify-content-center.d-lg-none.d-md-none        
+              img(src="@/assets/curso/tema1/19.1.svg" data-aos="zoom-in-up")
+
       Separador.mt-3-mb-0
 
       .cont_1_2.pb-0(style="position:relative;")
@@ -354,8 +370,8 @@
                   .bloque-texto-g__img(
                     :style="{'background-image': `url(${require('@/assets/curso/tema1/20.png')})`}"
                   )
-                  .bloque-texto-g__texto.p-4.my-4
-                    p.pt-1.pb-3(data-aos="fade-up") La clave es la identificación temprana y la comprensión de los problemas clínicos durante las diferentes fases de la enfermedad, lo que da lugar a un enfoque racional del abordaje de casos y una buena respuesta clínica.
+                  .bloque-texto-g__texto.p-4.my-3
+                    p.pt-1.pb-3(data-aos="fade-up") Según la Organización Panamericana de la Salud (2021), esta enfermedad es considerada como arbovirosis más importante transmitida por artrópodos a nivel mundial y de la región de las américas dada la alta magnitud en términos de morbilidad, mortalidad e impacto económico. 
                       br
 
       .row.justify-content-center.mb-5(data-aos="fade-right")
@@ -369,7 +385,7 @@
             .row.justify-content-center(data-aos="fade-right")
               .col-sm-12.col-lg-10
                 .col-sm-12.col-lg-12
-                  .titulo-sexto.mb-5
+                  .titulo-sexto.mb-5.color-acento-contenido.mb-1
                     p.mb-0 #[b Figura 2] 
                       i Casos de dengue en la región de las Américas 1980 a 2022.       
 
@@ -393,9 +409,9 @@
               .col-md-10.offset-0.mb-4.mb-md-4
                 .row.align-items-center.mb-0
                   .col-auto         
-                    p.mt-4.pb-0(data-aos="fade-up" style="position:relative") En Colombia, el Dengue es una enfermedad endémica con presentación de casos durante todo el año y un comportamiento con ciclos de interepidémicos cada tres años, con una magnitud cercana a 58.000 casos y 76 muertes promedio en años endémicos (2011, 2012, 2014, 2015, 2017 y 2018); mientras en los años epidémicos es de cerca de 127.000 casos de dengue y 174 muertes promedio anual en los años epidémicos (2010, 2013, 2016 y 2019), las anteriores cifras se pueden verificar en la siguiente figura 3:
-
-          .titulo-sexto.mb-0
+                    p.mt-4.pb-0(data-aos="fade-up" style="position:relative") En Colombia, el Dengue es una enfermedad endémica con presentación de casos durante todo el año y un comportamiento con ciclos de interepidémicos cada tres años, con una magnitud cercana a 58.000 casos y 76 muertes promedio en años endémicos (2011, 2012, 2014, 2015, 2017 y 2018); mientras en los años epidémicos es de cerca de 127.000 casos de dengue y 174 muertes promedio anual en los años epidémicos (2010, 2013, 2016 y 2019).
+          
+          .titulo-sexto.mb-0.color-acento-contenido.mb-1
             p.mb-0 #[b Figura 3] 
               i Casos notificados de dengue en Colombia 2008 a 2021.  
       .row.justify-content-center(data-aos="fade-right")
@@ -424,7 +440,7 @@
                 figure                    
                   img.px-md-0(src="@/assets/curso/tema2/6.png" alt="Estratificación de riesgo de dengue, Colombia, año 2020. En la figura se representa el mapa de Colombia identificando las regiones con muy alta transmisión como La Guajira, Cesar, Magdalena, Bolivar, Cordoba, Antioquia, Norte de Santander, Santander, Tolima, Risaralda, Valle del Cauca, Huila, Casanare, Meta, Guaviare, Caqueta, Putumayo y Nariño. También se observan los departamentos con alta transmisión, mediana transmisión, baja transmisión, sin transmisión con vector, sin transmisión sin vector y sin riesgo")
 
-        p.mt-1(data-aos="fade-up" style="position:relative") La presentación y persistencia de dengue en el territorio nacional es el resultado de la interacción de causas generadas por una serie de determinantes de la salud (los macro y micro determinantes), se puede conocerlos a continuación:
+        p.mt-1(data-aos="fade-up" style="position:relative") La presentación y persistencia de dengue en el territorio nacional es el resultado de la interacción de causas generadas por una serie de determinantes de la salud (los macro y micro determinantes).
             
 
 
@@ -459,7 +475,7 @@
           .col-lg-10
             ImagenInfografica.color-acento-botones.mb-5
               template(v-slot:imagen)
-                figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
+                figure
                   img(src='@/assets/curso/tema1/24.png', alt='"Principales determinantes en salud para dengue en Colombia". En la infografía se representa los Macro-determinantes como: Sociales económicos, estilos de vida, factores ambientales, igualmente los Micro-determinantes como: factores de huésped, factores de agente infeccioso, factores de vector.')
 
               .tarjeta.color-adicional-2.p-3(x="12%" y="32%" numero="+")

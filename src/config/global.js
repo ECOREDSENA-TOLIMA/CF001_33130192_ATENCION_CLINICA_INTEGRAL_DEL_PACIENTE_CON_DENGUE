@@ -314,7 +314,7 @@ export default {
     },
     {
       referencia:
-        'Ministerio de Salud y Protección Social. (2017). Lineamiento táctico y operativo de la Estrategia de Gestión integrada para las enfermedades transmitidas por vectores (EGO ETV) a nivel territorial.',
+        'Ministerio de Salud y Protección Social. (2017). Lineamiento táctico y operativo de la Estrategia de Gestión integrada para las enfermedades transmitidas por vectores (EGI ETV) a nivel territorial.',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/PAI/Lineamiento-Tatico-operativo-egi-Etv.pdf',
     },

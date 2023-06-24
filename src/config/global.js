@@ -244,7 +244,7 @@ export default {
         'El estudio de la distribución y los determinantes de estados o eventos (en particular de enfermedades) relacionados con la salud y la aplicación de esos estudios al control de enfermedades y otros problemas de salud.',
     },
     {
-      termino: 'Eventos en salud>',
+      termino: 'Eventos en salud',
       significado:
         'Conjunto de sucesos o circunstancias que pueden modificar o incidir en la situación de salud de una comunidad (enfermedad, factores protectores, discapacidad, muerte, factores de riesgo y otros determinantes).',
     },
@@ -291,7 +291,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Organización Mundial de la Salud. (2022). Nota descriptiva dengue.',
+        'Organización Mundial de la Salud. (2022). Dengue y dengue grave.',
       link:
         'https://www.who.int/es/news-room/fact-sheets/detail/dengue-and-severe-dengue',
     },

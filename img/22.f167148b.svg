@@ -1,0 +1,656 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="653" viewBox="0 0 1240 653">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e2e7fe"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_45998" data-name="Rectángulo 45998" width="1224.905" height="519.016"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_160818" data-name="Grupo 160818" transform="translate(-180 -6338)">
+    <g id="Grupo_160119" data-name="Grupo 160119" transform="translate(0 -28)">
+      <g id="Grupo_160106" data-name="Grupo 160106" transform="translate(0 108)">
+        <g id="Grupo_160086" data-name="Grupo 160086" transform="translate(0 86)">
+          <g id="OKEst_Casos" transform="translate(167 6216.41)">
+            <rect id="Rectángulo_46125" data-name="Rectángulo 46125" width="1240" height="653" transform="translate(13 -44.41)" fill="#fff"/>
+            <path id="Trazado_600254" data-name="Trazado 600254" d="M0,0H1224.905V519.016H0Z" transform="translate(28.095 17.59)" fill="#fff"/>
+            <rect id="Rectángulo_46142" data-name="Rectángulo 46142" width="1181.854" height="473.342" transform="translate(71.146 17.644)" fill="url(#linear-gradient)"/>
+            <path id="Trazado_600217" data-name="Trazado 600217" d="M1219,284.024h.663v193.81H1219Zm-2.19-22.837h.662V477.833h-.662Zm-2.272-39.873h.662V477.82h-.662Zm-2.19,8h.662V477.833h-.662Zm-2.285-2.285h.662v250.8h-.662Zm-2.19-34.167h.662V477.82h-.662Zm-2.191,34.167h.568v250.8h-.568Zm-2.285,11.412h.662V477.833h-.662Zm-2.191,33.491h.662v205.9h-.662Zm-2.285-2.285h.663V477.833h-.663Zm-2.177,6.193h.662v201.99h-.662Zm-2.285,10.938h.663V477.833h-.663Zm-2.19,9.8h.662V477.833h-.662Zm-2.19,9.032h.663V477.833h-.663Zm-2.285,30.733h.662V477.833h-.662Zm-2.191,1.339h.663V477.833h-.663Zm-2.285,16.266h.662V477.833h-.662Zm-2.177,12.277h.663v111.6h-.663Zm-2.19,7.707h.568v103.9h-.568Zm-2.285,10.087h.662v93.809h-.662Zm-2.19-2.866h.662V477.82h-.662Zm-2.285,13.994h.662v82.681h-.662ZM1170,394h.662v83.83H1170Zm-2.285,7.518h.662v76.312h-.662Zm-2.177.581h.663v75.731h-.663Zm-2.19.946h.662v74.784h-.662Zm-2.285,3.61h.663v71.174h-.663Zm-2.19-.284h.662v71.458h-.662Zm-2.285-2.664h.663v74.122h-.663Zm-2.19-3.894h.662v78.016h-.662Zm-2.191,9.032h.663v68.984h-.663Zm-2.285-2.474h.662v71.458h-.662Zm-2.177,4.759h.663v66.7h-.663Zm-2.285,6.179h.662V477.82h-.662Zm-2.19,2.866h.662v57.653h-.662Zm-2.285-3.15h.663v60.8h-.663Zm-2.19-5.706h.662v66.51h-.662Zm-2.19-.284h.662v66.794h-.662Zm-2.285,5.706h.662v61.088h-.662Zm-2.177-3.894h.662v64.982h-.662Zm-2.285-2.664h.663v67.645h-.663Zm-2.19-2.569h.663v70.214h-.663Zm-2.19-12.182h.662v82.4h-.662Zm-2.285,2.664h.663v79.733h-.663Zm-2.19-1.433h.662V477.82H1121Zm-2.285,1.906h.663v79.26h-.663Zm-2.177.568h.662v78.692h-.662Zm-2.19-.095h.568v78.787h-.568ZM1112.063,404h.663v73.838h-.663Zm-2.19-4.367h.662v78.205h-.662Zm-2.285,3.231h.663v74.974h-.663Zm-2.19-.379h.662v75.352h-.662Zm-2.285-2.19h.663v77.543h-.663Zm-2.19-5.233h.662v82.775h-.662Zm-2.177,2.758h.663v80.017h-.663Zm-2.285-1.055h.662V477.82h-.662Zm-2.19,8.762h.663v72.31h-.663Zm-2.285-3.042h.663v75.352h-.663Zm-2.19,3.421h.663v71.932h-.663Zm-2.19-6.368h.568v78.3h-.568Zm-2.285,6.274h.663v72.026h-.663Zm-2.177-4.381h.662v76.407h-.662Zm-2.285-3.137h.662v79.544h-.662Zm-2.19,2.948h.663v76.6h-.663Zm-2.285,4.1h.662v72.5h-.662Zm-2.191-3.624h.663v76.123h-.663Zm-2.19,2.38h.663v73.743H1072Zm-2.285,2.664h.662v71.08h-.662Zm-2.177,0h.662v71.08h-.662Zm-2.285-4.083h.662v75.163h-.662Zm-2.19,2.285h.663v72.878h-.663Zm-2.19-.581h.568V477.82h-.568Zm-2.285-7.991h.663v81.45h-.663Zm-2.19,3.34h.662v78.111h-.662Zm-2.285-7.234h.663v85.344h-.663Zm-2.19-4.759h.663v90.1h-.663Zm-2.271-11.8h.662V477.833h-.662Zm-2.19-16.36h.662V477.833h-.662Zm-2.19,14.562h.663V477.833h-.663Zm-2.285-17.51h.662V477.833h-.662Zm-2.191.284h.663V477.833h-.663Zm-2.285-30.828h.663V477.833h-.663Zm-2.19,11.52h.662v140.24h-.662Zm-2.177-23.31h.662v163.55h-.662Zm-2.285-7.328h.662V477.833h-.662Zm-2.19,2.853h.662V477.833h-.662Zm-2.285,2.758h.662V477.833h-.662Zm-2.191-12.656h.663V477.833h-.663Zm-2.285-2.474h.663v180.4h-.663Zm-2.19-3.042h.662V477.833h-.662Zm-2.177-8.572h.663v192h-.663Zm-2.285-1.893h.663v193.9h-.663Zm-2.19-15.982h.663V477.833h-.663Zm-2.285-118.457h.662V477.833h-.662Zm-2.19-40.631h.663V477.833h-.663Zm-2.19,10.465h.662V477.833h-.662Zm-2.285-8.951h.663V477.82h-.663Zm-2.19-23.5h.663V477.833h-.663ZM1000.65,55.1h.663V477.833h-.663Zm-2.19,6.666h.663V477.833h-.663Zm-2.19,22.539h.568V477.833h-.568Zm-2.285-19.4h.662v412.93h-.662Zm-2.19,21.782h.663V477.833h-.663Zm-2.285,37.872h.662V477.833h-.662Zm-2.19,224.259h.662V477.833h-.662Zm-2.271-171.365h.662V477.82h-.662Zm-2.19-44.9h.662V477.833h-.662Zm-2.19,4.381h.663v340.9h-.663ZM978.381,159h.663V477.833h-.663Zm-2.19-10.938h.662V477.833h-.662Zm-2.285,1.433h.662V477.833h-.662Zm-2.19-12.94h.663V477.833h-.663ZM969.539,166.7h.568V477.833h-.568ZM967.253,178.7h.663V477.833h-.663Zm-2.19,16.739h.663V477.82h-.663Zm-2.285,11.8h.662v270.6h-.662Zm-2.19-2.758h.662V477.833h-.662Zm-2.285,13.7h.663V477.833H958.3Zm-2.19-21.5h.663V477.833h-.663Zm-2.19-5.706h.662V477.833h-.662Zm-2.272-10.655h.663V477.833h-.663Zm-2.19,18.74h.663V477.833h-.663ZM947.175,209.9h.663V477.833h-.663Zm-2.19.284h.662V477.833h-.662Zm-2.19-50.609h.568V477.833h-.568Zm-2.285,8.275h.663V477.833h-.663Zm-2.19-24.365h.662V477.833h-.662Zm-2.272-25.974h.663v360.32h-.663Zm-2.19-13.6h.662V477.833h-.662Zm-2.285-43.389h.662V477.833h-.662Zm-2.19,79.733h.663V477.833h-.663Zm-2.19-17.32h.663v354.9h-.663Zm-2.285-4.083h.662V477.833h-.662Zm-2.19,15.982h.663v343h-.663Zm-2.285,9.9h.676v333.1h-.662v-333.1Zm-2.177-2.285h.662V477.833h-.662Zm-2.19,29.489h.663v305.9h-.663Zm-2.285,12.94h.663V477.833h-.663Zm-2.19-2.082h.662V477.833h-.662ZM909.3,204.953h.663v272.88H909.3Zm-2.19,46.715h.663V477.833h-.663Zm-2.285,11.709h.662V477.833h-.662Zm-2.177-19.7h.662V477.833h-.662Zm-2.19,17.794h.663V477.833h-.663Zm-2.285,7.707h.663V477.833h-.663Zm-2.19-13.886h.662V477.833h-.662Zm-2.285,9.695h.663V477.833H893.7Zm-2.19.581h.663V477.833h-.663Zm-2.19-3.34h.663V477.833h-.663Zm-2.272,21.417h.663V477.833h-.663Zm-2.19.284h.663v193.9h-.663Zm-2.285-4.381h.662V477.833h-.662Zm-2.19,5.043h.663V477.833h-.663Zm-2.19,4.759h.568V477.833h-.568Zm-2.285-1.339h.663V477.833h-.663Zm-2.19-.663h.662V477.833h-.662ZM871.43,294.2h.663V477.833h-.663Zm-2.177-.568h.662v184.2h-.662Zm-2.285-18.091h.663V477.82h-.663Zm-2.19,18.564h.663V477.833h-.663Zm-2.19,16.55h.663V477.833h-.663Zm-2.285-4.381h.662V477.833H860.3Zm-2.19,24.27h.662V477.833h-.662Zm-2.285-6.95h.663V477.833h-.663Zm-2.177,11.8h.662v142.43h-.662Zm-2.19,2.285h.568V477.833h-.568Zm-2.285,4.949h.663v135.2h-.663Zm-2.19,17.212h.663V477.833h-.663Zm-2.285-4.178h.662V477.833H844.7Zm-2.19,14.454h.663V477.833h-.663Zm-2.285-.852h.663v108.56h-.663Zm-2.177,6.558h.663v102h-.663Zm-2.19,6.76h.663v95.242h-.663Zm-2.285-8.937h.662V477.833h-.662Zm-2.19-2h.662v106.18h-.662ZM829.1,384.119h.663v93.714H829.1Zm-2.19-9.235h.663V477.833h-.663Zm-2.19,3.042h.568v99.906h-.568Zm-2.285,7.423h.662v92.483h-.662Zm-2.177-11.222h.663V477.833h-.663Zm-2.285,1.7h.662v102h-.662Zm-2.19-.852h.662V477.833h-.662Zm-2.285,17.794h.663v85.06h-.663Zm-2.19-20.647h.663V477.833H811.3Zm-2.19.663h.663V477.833h-.663Zm-2.285,5.138h.662v99.906h-.662ZM804.65,372.6h.662V477.833h-.662Zm-2.285,17.226h.662v88.008h-.662Zm-2.19,9.316h.663v78.692h-.663Zm-2.19,12.088h.663v66.6h-.663Zm-2.285,7.234h.663v59.371H795.7Zm-2.19,2.664h.662v56.707h-.662Zm-2.285,1.906h.663v54.8h-.663Zm-2.177,5.233h.662v49.568h-.662Zm-2.285,1.609h.663v47.959h-.663Zm-2.19,9.992h.663v37.967h-.663Zm-2.19-6.179h.662v44.146h-.662Zm-2.285-1.906h.663v46.052H780.1Zm-2.19-2.758h.663v48.811h-.663Zm-2.285,1.717h.662v47.094h-.662Zm-2.19,0h.662v47.094h-.662Zm-2.177-6.382h.663v53.475h-.663Zm-2.285,5.043h.663v48.432h-.663Zm-2.19-7.707h.662v56.139h-.662Zm-2.285,3.421h.662v52.7h-.662ZM762.3,415.8h.663v62.034H762.3Zm-2.19-.284h.568v62.318h-.568Zm-2.285,8.843h.663v53.475h-.663Zm-2.177,32.924h.663v20.552h-.663Zm-2.285-39.86h.662v60.412h-.662Zm-2.19-1.055h.662v61.466h-.662Zm-2.285,7.518h.663v53.949h-.663Zm-2.19-1.339h.663V477.82H746.7Zm-2.19.581h.662v54.706h-.662Zm-2.285-1.528h.663v56.234h-.663Zm-2.177,1.433h.663v54.8h-.663Zm-2.285,4.273h.663v50.528h-.663Zm-2.19,3.434h.663v47.094h-.663Zm-2.19-2.474h.568v49.568h-.568Zm-2.285-.379h.663v49.946H731.1Zm-2.19-6h.662v55.95h-.662Zm-2.285,3.042h.663v52.908h-.663Zm-2.19-4.746h.663v57.653h-.663Zm-2.271,9.411h.663v48.243h-.663Zm-2.19-2.19h.663v50.433h-.663Zm-2.19-3.61h.663v54.043h-.663Zm-2.285-2.285h.662v56.328h-.662Zm-2.19.663h.662v55.666H713.3Zm-2.285-4.367h.663v60.033h-.663Zm-2.19,5.327h.663v54.706h-.663Zm-2.177-5.233h.568v59.938h-.568Zm-2.285,3.515h.662v56.423h-.662Zm-2.19-5.611h.662v62.034h-.662Zm-2.285,2.1h.663v59.938h-.663Zm-2.19,2.853h.663v57.086H697.7Zm-2.285,8.653h.662v48.432h-.662Zm-2.19-4.381h.662v52.8h-.662Zm-2.177-6.936h.663v59.749h-.663Zm-2.285,1.325h.663v58.424h-.663Zm-2.19-1.136h.662v59.56h-.662Zm-2.285-1.906h.663v61.466h-.663Zm-2.19,6.666h.663v54.8H682.1Zm-2.19-1.433h.663v56.234h-.663Zm-2.285,6.193h.663v50.041h-.663Zm-2.19-5.341h.663V477.82h-.663Zm-2.271,4.381h.662v51h-.662Zm-2.19-5.327h.663v56.328h-.663Zm-2.285,2.664h.663v53.665h-.663Zm-2.19,4.286h.662v49.379h-.662Zm-2.19,2.285h.662v47.094H664.3Zm-2.285-6h.663v53.1h-.663Zm-2.19-3.8h.663v56.9h-.663Zm-2.272,3.61h.663v53.286h-.663Zm-2.19-6.558h.662v59.844h-.662Zm-2.19-12.088h.662v71.932h-.662Zm-2.285-3.8h.663v75.731h-.663Zm-2.19-3.624h.663v79.355H648.7Zm-2.285-14.265h.662v93.619h-.662Zm-2.19,5.422h.663v88.2h-.663Zm-2.177-5.611h.568v93.809h-.568Zm-2.285,43h.663v50.812h-.663Zm-2.19-47.945h.663v98.757h-.663Zm-2.285-21.039h.662V477.82h-.662Zm-2.19,9.8h.663V477.833H633.1Zm-2.285-1.42h.663V477.833h-.663Zm-2.19-9.992h.662v121.4h-.662Zm-2.19.284h.662V477.833h-.662Zm-2.271,3.61h.662V477.833h-.662Zm-2.19,2.285h.663V477.833h-.663Zm-2.285-2h.663V477.82h-.663Zm-2.19-10.465h.663V477.833h-.663Zm-2.19,13.237h.568V477.833H615.3Zm-2.285,2.664h.662V477.833h-.662Zm-2.19-19.984h.663V477.833h-.663Zm-2.272-3.529h.663V477.82h-.663Zm-2.19-2.758h.663V477.833h-.663Zm-2.285-7.9h.662V477.833h-.662Zm-2.19-12.169h.663V477.833h-.663Zm-2.19-7.991h.663V477.833H599.7ZM597.414,296.1h.663V477.82h-.663Zm-2.19,5.53h.662V477.833h-.662Zm-2.285-14.184h.663V477.833h-.663Zm-2.177,3.042h.663V477.833h-.663Zm-2.19-5.9h.568V477.833h-.568Zm-2.285-38.062h.662v231.3h-.662Zm-2.19-14.454h.662V477.833H584.1Zm-2.285,11.506h.663V477.833h-.663Zm-2.19-27.88h.663V477.833h-.663Zm-2.285-19.592H578V477.833h-.662Zm-2.177-19.038h.663v300.76h-.663Zm-2.19-5.233h.663V477.833h-.663Zm-2.285,5.327h.663V477.833h-.663Zm-2.19-32.342h.662V477.833h-.662Zm-2.285,14.941h.662V477.833h-.662Zm-2.19,18.551h.663V477.833h-.663Zm-2.19,6.274h.663V477.833h-.663Zm-2.271,9.519h.663V477.833h-.663Zm-2.19-27.6h.663v311.32h-.663ZM555.08,191.54h.662V477.833h-.662Zm-2.19-61.277h.662v347.57h-.662ZM550.6,211.524h.663V477.833H550.6Zm-2.19,11.317h.662V477.833h-.662Zm-2.19-55.76h.662V477.82h-.662Zm-2.285-29.111h.663V477.833h-.663Zm-2.177,29.408h.663V477.833h-.663Zm-2.285-38.251h.663V477.833h-.663Zm-2.19-19.038h.663V477.833h-.663ZM535.1,95.447h.662V477.833H535.1Zm-2.285,45.092h.663V477.833h-.663Zm-2.19-29.868h.663V477.833h-.663Zm-2.285,15.022H529v352.14h-.662Zm-2.177,30.733h.662V477.833h-.662Zm-2.19,26.258h.568V477.82h-.568Zm-2.285,28.746h.663v266.4h-.663Zm-2.19-20.268h.663V477.833h-.663Zm-2.285,3.7h.663V477.833h-.663Zm-2.19,23.026h.662V477.833h-.662Zm-2.285,9.235h.663V477.833h-.663Zm-2.177-9.8h.663V477.833h-.663Zm-2.19,3.515h.663V477.833h-.663Zm-2.285,10.371h.663V477.833h-.663Zm-2.19,24.743h.663V477.833h-.663ZM501.6,257.09h.663V477.833H501.6Zm-2.19,21.133h.662v199.61h-.662Zm-2.19,1.893h.568V477.833h-.568Zm-2.271.568h.662V477.82h-.662Zm-2.19-1.514h.662V477.833h-.662Zm-2.285,7.328h.663V477.833h-.663Zm-2.19,9.8h.663V477.833h-.663ZM486,311.038h.662V477.833H486Zm-2.19,4.665h.663v162.13h-.663Zm-2.19,6.274h.663V477.82h-.663Zm-2.285,9.329H480V477.833h-.663Zm-2.177-8.559h.663V477.833h-.663Zm-2.285-1.717h.663v156.8h-.663Zm-2.19-.852h.663V477.833h-.663Zm-2.19-5.8h.663V477.833h-.663Zm-2.285-17.036h.663V477.833h-.663Zm-2.19-1.149h.663V477.82h-.663Zm-2.285,15.319h.663V477.82h-.663Zm-2.177-8.369h.663V477.833h-.663Zm-2.285,1.906h.663V477.833h-.663Zm-2.19-18.172h.663V477.833h-.663Zm-2.19-5.706h.663V477.833h-.663Zm-2.285-2.853h.663V477.833H452.6Zm-2.19-12.561h.663V477.833h-.663Zm-2.285-2.1h.663V477.833h-.663Zm-2.19-5.706h.663V477.833h-.663Zm-2.177,18.929h.663V477.833h-.663Zm-2.285-6.368h.663V477.833h-.663Zm-2.19-35.209h.663V477.833h-.663ZM437,284.591h.663V477.833H437Zm-2.19-5.422h.663V477.833h-.663Zm-2.285-26.447h.663V477.833h-.663Zm-2.19-5.327H431V477.833h-.663Zm-2.177-11.9h.663V477.833h-.663Zm-2.285,22.742h.663V477.833h-.663Zm-2.19-19.511h.663v239.1h-.663ZM421.4,251.195h.663V477.833H421.4Zm-2.19-15.414h.663V477.833h-.663Zm-2.19,31.112h.663V477.833h-.663Zm-2.285-11.506h.663V477.833h-.663Zm-2.177-7.234h.663V477.833h-.663Zm-2.285-46.431h.663V477.833h-.663Zm-2.19-6.95h.663V477.833h-.663Zm-2.19,48.905h.568V477.833h-.568ZM403.6,239.5h.663V477.833H403.6Zm-2.19-7.328h.663V477.833h-.663Zm-2.285,8.653h.663V477.833h-.663Zm-2.19,25.122h.663V477.833h-.663Zm-2.272-20.079h.663V477.833h-.663Zm-2.19-11.9h.663V477.833h-.663Zm-2.19,2.1h.663V477.833h-.663ZM388,224.842h.663V477.833H388Zm-2.19-23.215h.663V477.833h-.663Zm-2.285,19.119h.663V477.833h-.663Zm-2.19,10.938H382V477.82h-.663Zm-2.177-.568h.568V477.833h-.568Zm-2.285,7.423h.663V477.833h-.663Zm-2.19-9.032h.663V477.833h-.663Zm-2.285,5.422h.663v242.9H372.4Zm-2.19,28.732h.663V477.833h-.663ZM367.923,278.6h.663V477.833h-.663Zm-2.19-19.227h.663V477.833h-.663Zm-2.177,2.948h.663V477.833h-.663Zm-2.285,5.422h.663V477.82h-.663Zm-2.19-21.782h.663V477.833h-.663ZM356.8,236.93h.663v240.9H356.8Zm-2.19,1.514h.663V477.833H354.6Zm-2.19-6.652h.663V477.833h-.663Zm-2.285,5.517h.663V477.833h-.663Zm-2.177,42.713h.663V477.833h-.663Zm-2.285-10.56h.663V477.833h-.663Zm-2.19-32.531h.663v240.9h-.663Zm-2.285,11.033h.663v229.87h-.663ZM339,282.685h.663V477.833H339Zm-2.19-31.4h.663V477.833h-.663Zm-2.285,19.321h.663V477.833h-.663Zm-2.19-.487H333V477.833h-.663Zm-2.271-3.421h.663v211.13h-.663Zm-2.19-4.665h.663V477.833h-.663Zm-2.19,17.888h.663V477.833h-.663ZM323.4,267.65h.663V477.82H323.4Zm-2.19-29.3h.663V477.833h-.663Zm-2.285,39.387h.663v200.1h-.663Zm-2.19-8.559h.663V477.833h-.663Zm-2.177-6.855h.568V477.833h-.568Zm-2.285,10.087h.663V477.833h-.663Zm-2.19,6.193h.663V477.833h-.663ZM307.8,247.3h.663V477.833H307.8Zm-2.19-.2h.663V477.82H305.6Zm-2.285-4.178h.663V477.833h-.663Zm-2.19-2.853h.663V477.833h-.663Zm-2.19-42.442h.663V477.833h-.663Zm-2.272,11.8h.663v268.4h-.663Zm-2.19-17.51h.663V477.833h-.663Zm-2.285,14.467h.663V477.833h-.663ZM290,272.977h.663V477.82H290Zm-2.19-20.538h.568V477.833h-.568Zm-2.285-40.157h.663V477.833h-.663Zm-2.19,4.57H284V477.833h-.663Zm-2.272,6.368h.663V477.833h-.663Zm-2.19-34.722h.663V477.833h-.663Zm-2.285,5.517h.663V477.833h-.663ZM274.4,227.7h.663V477.833H274.4Zm-2.19-12.372h.663v262.51h-.663Zm-2.285-9.519h.663V477.82h-.663Zm-2.19-3.989h.663V477.833h-.663Zm-2.272,23.121h.663v252.9h-.663Zm-2.19-10.371h.663V477.833h-.663Zm-2.19,4.286h.568V477.833h-.568Zm-2.285,3.8h.663V477.833H258.8Zm-2.19,2.474h.663V477.833H256.6Zm-2.285,11.7h.663v241h-.663Zm-2.19,6.193h.663V477.833h-.663Zm-2.285-28.448h.663V477.833h-.663Zm-2.177,14.846h.663V477.833h-.663Zm-2.19-22.648h.663V477.833h-.663Zm-2.285-8.464h.663V477.833h-.663ZM241,166.986h.663V477.833H241Zm-2.285-34.533h.663v345.38h-.663Zm-2.19.757h.663V477.833h-.663Zm-2.19-5.517H235V477.833h-.663Zm-2.272,51.38h.663V477.833h-.663Zm-2.19-26.258h.663V477.833h-.663Zm-2.285,3.232h.663V477.833h-.663Zm-2.19,4.759h.663V477.833H225.4Zm-2.285-27.691h.663V477.833h-.663Zm-2.19-12.466h.663V477.82h-.663Zm-2.19,28.07h.663V477.833h-.663Zm-2.271-.473h.663V477.833h-.663Zm-2.19-7.612h.663v337.2h-.663Zm-2.285,2.285h.663V477.833h-.663Zm-2.19-40.347h.663V477.833H209.8Zm-2.19,22.08h.663V477.833H207.6ZM205.32,171.84h.663V477.833h-.663Zm-2.19,68.038h.663V477.833h-.663Zm-2.285,2.285h.663V477.833h-.663Zm-2.177-10.573h.663V477.82h-.663Zm-2.19-4.935h.568V477.833h-.568Zm-2.285,9.979h.663v241.2h-.663ZM192,241.3h.663V477.833H192Zm-2.285,15.509h.663V477.833h-.663Zm-2.19-8.464h.663V477.833h-.663Zm-2.285-4.854h.663V477.833h-.663Zm-2.177,14.751h.663V477.833h-.663Zm-2.19,16.171h.663V477.833h-.663Zm-2.285,1.339h.663V477.833h-.663Zm-2.19,8.18h.663v193.9H176.4Zm-2.285,62.034h.663v131.87h-.663Zm-2.19-15.225h.663V477.833h-.663Zm-2.19-19.132h.568V477.82h-.568ZM167.461,323.6h.663V477.833h-.663Zm-2.19,7.423h.663V477.833h-.663Zm-2.285-10.938h.663V477.833h-.663Zm-2.19,10.087h.663V477.833H160.8Zm-2.285,6.558h.663v141.1h-.663Zm-2.19,10.938h.663V477.82h-.663Zm-2.19.676h.663v129.49h-.663Zm-2.285-5.233h.663V477.833h-.663Zm-2.177.852h.663V477.833h-.663Zm-2.285,12.372h.663v121.5h-.663Zm-2.19,12.372h.663V477.833h-.663ZM143,357.564h.568V477.833H143Zm-2.285,9.329h.663v110.94h-.663Zm-2.19-3.515h.663V477.833h-.663Zm-2.285-6.1h.663V477.833h-.663Zm-2.177,17.51h.663V477.833h-.663Zm-2.285-5.706h.663V477.833h-.663Zm-2.19,5.706h.663V477.833h-.663Zm-2.19-5.8h.663V477.833H127.4Zm-2.285.189h.663V477.833h-.663Zm-2.19.095h.663v108.56h-.663Zm-2.285-8.559h.663V477.833h-.663Zm-2.177.284h.663V477.833h-.663Zm-2.19,1.7h.663V477.833h-.663Zm-2.285-8.464h.663v123.6h-.663Zm-2.19,1.812h.663V477.833H111.8Zm-2.285-5.327h.663V477.833h-.663Zm-2.19-4.381h.663V477.833h-.663Zm-2.285,15.319h.663V477.833h-.663Zm-2.19,3.232h.663V477.833h-.663Zm-2.177-5.327h.663V477.833h-.663Zm-2.285,3.61h.663V477.82h-.663Zm-2.19,7.91h.663V477.833h-.663Zm-2.285-5.625h.663V477.833h-.663Zm-2.19,8.667h.663V477.833h-.663Zm-2.19,12.466h.663v91.24h-.663Zm-2.285,5.9H87.9v85.344h-.663Zm-2.177-20.363h.663V477.833h-.663ZM82.779,378.4h.663v99.433h-.663Zm-2.19-15.6h.663V477.833h-.663Zm-2.19-.473h.568v115.51H78.4Zm-2.285-6.368h.663V477.833h-.663ZM73.923,372.6h.663V477.833h-.663Zm-2.285-.095H72.3V477.833h-.663Zm-2.177-.284h.663V477.833h-.663Zm-2.285,1.717h.663v103.9h-.663Zm-2.19,5.422h.663v98.473h-.663Zm-2.19,4.57h.663v93.9H62.8Zm-2.285.852h.663v93.051H60.51Z" transform="translate(11.447 13.207)" fill="#00b0f0"/>
+            <line id="Línea_141" data-name="Línea 141" x2="1160.775" transform="translate(71.145 490.986)" fill="none" stroke="#d9d9d9" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.75"/>
+            <path id="Trazado_600218" data-name="Trazado 600218" d="M1220.685,367.71v18.929m-113.6-18.929v18.929M989,367.71v18.929M873.129,367.71v18.929M757.241,367.71v18.929M641.447,367.71v18.929M525.559,367.71v18.929M409.765,367.71v18.929M291.686,367.71v18.929M175.8,367.71v18.929M59.91,367.71v18.929" transform="translate(11.235 123.276)" fill="none" stroke="#d9d9d9" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.75"/>
+            <path id="Trazado_600219" data-name="Trazado 600219" d="M1220.685,381.72v18.835m-113.6-18.835v18.835M989,381.72v18.835M873.129,381.72v18.835M757.241,381.72v18.835M641.447,381.72v18.835M525.559,381.72v18.835M409.765,381.72v18.835M291.686,381.72v18.835M175.8,381.72v18.835M59.91,381.72v18.835" transform="translate(11.235 128.209)" fill="none" stroke="#d9d9d9" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.75"/>
+            <g id="Grupo_159839" data-name="Grupo 159839" transform="translate(28 17.59)">
+              <g id="Grupo_159838" data-name="Grupo 159838" clip-path="url(#clip-path)">
+                <text id="_0" data-name="0" transform="translate(27.276 473.866)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">0</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159841" data-name="Grupo 159841" transform="translate(28 17.59)">
+              <g id="Grupo_159840" data-name="Grupo 159840" clip-path="url(#clip-path)">
+                <text id="_500" data-name="500" transform="translate(16.017 417.842)" fill="#595959" font-size="9" font-family="Calibri"><tspan x="0" y="0">500</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159843" data-name="Grupo 159843" transform="translate(28 17.59)">
+              <g id="Grupo_159842" data-name="Grupo 159842" clip-path="url(#clip-path)">
+                <text id="_1000" data-name="1000" transform="translate(10.37 360.85)" fill="#595959" font-size="9" font-family="Calibri"><tspan x="0" y="0">1000</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159845" data-name="Grupo 159845" transform="translate(28 17.59)">
+              <g id="Grupo_159844" data-name="Grupo 159844" clip-path="url(#clip-path)">
+                <text id="_1500" data-name="1500" transform="translate(10.37 303.828)" fill="#595959" font-size="9" font-family="Calibri"><tspan x="0" y="0">1500</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159847" data-name="Grupo 159847" transform="translate(28 17.59)">
+              <g id="Grupo_159846" data-name="Grupo 159846" clip-path="url(#clip-path)">
+                <text id="_2000" data-name="2000" transform="translate(10.37 246.835)" fill="#595959" font-size="9" font-family="Calibri"><tspan x="0" y="0">2000</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159849" data-name="Grupo 159849" transform="translate(28 17.59)">
+              <g id="Grupo_159848" data-name="Grupo 159848" clip-path="url(#clip-path)">
+                <text id="_2500" data-name="2500" transform="translate(10.37 189.844)" fill="#595959" font-size="9" font-family="Calibri"><tspan x="0" y="0">2500</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159851" data-name="Grupo 159851" transform="translate(28 17.59)">
+              <g id="Grupo_159850" data-name="Grupo 159850" clip-path="url(#clip-path)">
+                <text id="_3000" data-name="3000" transform="translate(10.37 132.819)" fill="#595959" font-size="9" font-family="Calibri"><tspan x="0" y="0">3000</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159853" data-name="Grupo 159853" transform="translate(28 17.59)">
+              <g id="Grupo_159852" data-name="Grupo 159852" clip-path="url(#clip-path)">
+                <text id="_3500" data-name="3500" transform="translate(10.37 75.828)" fill="#595959" font-size="9" font-family="Calibri"><tspan x="0" y="0">3500</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159855" data-name="Grupo 159855" transform="translate(28 17.59)">
+              <g id="Grupo_159854" data-name="Grupo 159854" clip-path="url(#clip-path)">
+                <text id="_4000" data-name="4000" transform="translate(10.37 18.835)" fill="#595959" font-size="9" font-family="Calibri"><tspan x="0" y="0">4000</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159857" data-name="Grupo 159857" transform="translate(28 17.59)">
+              <g id="Grupo_159856" data-name="Grupo 159856" clip-path="url(#clip-path)">
+                <text id="_01" data-name="01" transform="translate(39.485 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">01</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159859" data-name="Grupo 159859" transform="translate(28 17.59)">
+              <g id="Grupo_159858" data-name="Grupo 159858" clip-path="url(#clip-path)">
+                <text id="_06" data-name="06" transform="translate(50.618 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">06</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159861" data-name="Grupo 159861" transform="translate(28 17.59)">
+              <g id="Grupo_159860" data-name="Grupo 159860" clip-path="url(#clip-path)">
+                <text id="_11" data-name="11" transform="translate(61.781 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">11</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159863" data-name="Grupo 159863" transform="translate(28 17.59)">
+              <g id="Grupo_159862" data-name="Grupo 159862" clip-path="url(#clip-path)">
+                <text id="_16" data-name="16" transform="translate(72.914 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">16</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159865" data-name="Grupo 159865" transform="translate(28 17.59)">
+              <g id="Grupo_159864" data-name="Grupo 159864" clip-path="url(#clip-path)">
+                <text id="_21" data-name="21" transform="translate(84.044 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">21</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159867" data-name="Grupo 159867" transform="translate(28 17.59)">
+              <g id="Grupo_159866" data-name="Grupo 159866" clip-path="url(#clip-path)">
+                <text id="_26" data-name="26" transform="translate(95.176 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">26</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159869" data-name="Grupo 159869" transform="translate(28 17.59)">
+              <g id="Grupo_159868" data-name="Grupo 159868" clip-path="url(#clip-path)">
+                <text id="_31" data-name="31" transform="translate(106.341 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">31</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159871" data-name="Grupo 159871" transform="translate(28 17.59)">
+              <g id="Grupo_159870" data-name="Grupo 159870" clip-path="url(#clip-path)">
+                <text id="_36" data-name="36" transform="translate(117.473 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">36</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159873" data-name="Grupo 159873" transform="translate(28 17.59)">
+              <g id="Grupo_159872" data-name="Grupo 159872" clip-path="url(#clip-path)">
+                <text id="_41" data-name="41" transform="translate(128.606 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">41</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159875" data-name="Grupo 159875" transform="translate(28 17.59)">
+              <g id="Grupo_159874" data-name="Grupo 159874" clip-path="url(#clip-path)">
+                <text id="_46" data-name="46" transform="translate(139.737 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">46</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159877" data-name="Grupo 159877" transform="translate(28 17.59)">
+              <g id="Grupo_159876" data-name="Grupo 159876" clip-path="url(#clip-path)">
+                <text id="_51" data-name="51" transform="translate(150.901 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">51</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159879" data-name="Grupo 159879" transform="translate(28 17.59)">
+              <g id="Grupo_159878" data-name="Grupo 159878" clip-path="url(#clip-path)">
+                <text id="_04" data-name="04" transform="translate(162.033 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">04</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159881" data-name="Grupo 159881" transform="translate(28 17.59)">
+              <g id="Grupo_159880" data-name="Grupo 159880" clip-path="url(#clip-path)">
+                <text id="_09" data-name="09" transform="translate(173.166 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">09</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159883" data-name="Grupo 159883" transform="translate(28 17.59)">
+              <g id="Grupo_159882" data-name="Grupo 159882" clip-path="url(#clip-path)">
+                <text id="_14" data-name="14" transform="translate(184.297 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">14</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159885" data-name="Grupo 159885" transform="translate(28 17.59)">
+              <g id="Grupo_159884" data-name="Grupo 159884" clip-path="url(#clip-path)">
+                <text id="_19" data-name="19" transform="translate(195.461 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">19</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159887" data-name="Grupo 159887" transform="translate(28 17.59)">
+              <g id="Grupo_159886" data-name="Grupo 159886" clip-path="url(#clip-path)">
+                <text id="_24" data-name="24" transform="translate(206.594 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">24</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159889" data-name="Grupo 159889" transform="translate(28 17.59)">
+              <g id="Grupo_159888" data-name="Grupo 159888" clip-path="url(#clip-path)">
+                <text id="_29" data-name="29" transform="translate(217.725 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">29</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159891" data-name="Grupo 159891" transform="translate(28 17.59)">
+              <g id="Grupo_159890" data-name="Grupo 159890" clip-path="url(#clip-path)">
+                <text id="_34" data-name="34" transform="translate(228.856 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">34</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159893" data-name="Grupo 159893" transform="translate(28 17.59)">
+              <g id="Grupo_159892" data-name="Grupo 159892" clip-path="url(#clip-path)">
+                <text id="_39" data-name="39" transform="translate(240.021 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">39</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159895" data-name="Grupo 159895" transform="translate(28 17.59)">
+              <g id="Grupo_159894" data-name="Grupo 159894" clip-path="url(#clip-path)">
+                <text id="_44" data-name="44" transform="translate(251.153 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">44</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159897" data-name="Grupo 159897" transform="translate(28 17.59)">
+              <g id="Grupo_159896" data-name="Grupo 159896" clip-path="url(#clip-path)">
+                <text id="_49" data-name="49" transform="translate(262.286 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">49</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159899" data-name="Grupo 159899" transform="translate(28 17.59)">
+              <g id="Grupo_159898" data-name="Grupo 159898" clip-path="url(#clip-path)">
+                <text id="_02" data-name="02" transform="translate(273.417 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">02</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159901" data-name="Grupo 159901" transform="translate(28 17.59)">
+              <g id="Grupo_159900" data-name="Grupo 159900" clip-path="url(#clip-path)">
+                <text id="_07" data-name="07" transform="translate(284.58 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">07</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159903" data-name="Grupo 159903" transform="translate(28 17.59)">
+              <g id="Grupo_159902" data-name="Grupo 159902" clip-path="url(#clip-path)">
+                <text id="_12" data-name="12" transform="translate(295.712 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">12</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159905" data-name="Grupo 159905" transform="translate(28 17.59)">
+              <g id="Grupo_159904" data-name="Grupo 159904" clip-path="url(#clip-path)">
+                <text id="_17" data-name="17" transform="translate(306.844 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">17</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159907" data-name="Grupo 159907" transform="translate(28 17.59)">
+              <g id="Grupo_159906" data-name="Grupo 159906" clip-path="url(#clip-path)">
+                <text id="_22" data-name="22" transform="translate(317.977 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">22</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159909" data-name="Grupo 159909" transform="translate(28 17.59)">
+              <g id="Grupo_159908" data-name="Grupo 159908" clip-path="url(#clip-path)">
+                <text id="_27" data-name="27" transform="translate(329.14 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">27</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159911" data-name="Grupo 159911" transform="translate(28 17.59)">
+              <g id="Grupo_159910" data-name="Grupo 159910" clip-path="url(#clip-path)">
+                <text id="_32" data-name="32" transform="translate(340.272 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">32</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159913" data-name="Grupo 159913" transform="translate(28 17.59)">
+              <g id="Grupo_159912" data-name="Grupo 159912" clip-path="url(#clip-path)">
+                <text id="_37" data-name="37" transform="translate(351.404 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">37</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159915" data-name="Grupo 159915" transform="translate(28 17.59)">
+              <g id="Grupo_159914" data-name="Grupo 159914" clip-path="url(#clip-path)">
+                <text id="_42" data-name="42" transform="translate(362.536 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">42</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159917" data-name="Grupo 159917" transform="translate(28 17.59)">
+              <g id="Grupo_159916" data-name="Grupo 159916" clip-path="url(#clip-path)">
+                <text id="_47" data-name="47" transform="translate(373.699 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">47</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159919" data-name="Grupo 159919" transform="translate(28 17.59)">
+              <g id="Grupo_159918" data-name="Grupo 159918" clip-path="url(#clip-path)">
+                <text id="_52" data-name="52" transform="translate(384.831 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">52</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159921" data-name="Grupo 159921" transform="translate(28 17.59)">
+              <g id="Grupo_159920" data-name="Grupo 159920" clip-path="url(#clip-path)">
+                <text id="_04-2" data-name="04" transform="translate(395.964 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">04</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159923" data-name="Grupo 159923" transform="translate(28 17.59)">
+              <g id="Grupo_159922" data-name="Grupo 159922" clip-path="url(#clip-path)">
+                <text id="_09-2" data-name="09" transform="translate(407.096 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">09</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159925" data-name="Grupo 159925" transform="translate(28 17.59)">
+              <g id="Grupo_159924" data-name="Grupo 159924" clip-path="url(#clip-path)">
+                <text id="_14-2" data-name="14" transform="translate(418.26 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">14</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159927" data-name="Grupo 159927" transform="translate(28 17.59)">
+              <g id="Grupo_159926" data-name="Grupo 159926" clip-path="url(#clip-path)">
+                <text id="_19-2" data-name="19" transform="translate(429.391 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">19</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159929" data-name="Grupo 159929" transform="translate(28 17.59)">
+              <g id="Grupo_159928" data-name="Grupo 159928" clip-path="url(#clip-path)">
+                <text id="_24-2" data-name="24" transform="translate(440.523 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">24</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159931" data-name="Grupo 159931" transform="translate(28 17.59)">
+              <g id="Grupo_159930" data-name="Grupo 159930" clip-path="url(#clip-path)">
+                <text id="_29-2" data-name="29" transform="translate(451.656 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">29</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159933" data-name="Grupo 159933" transform="translate(28 17.59)">
+              <g id="Grupo_159932" data-name="Grupo 159932" clip-path="url(#clip-path)">
+                <text id="_34-2" data-name="34" transform="translate(462.82 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">34</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159935" data-name="Grupo 159935" transform="translate(28 17.59)">
+              <g id="Grupo_159934" data-name="Grupo 159934" clip-path="url(#clip-path)">
+                <text id="_39-2" data-name="39" transform="translate(473.952 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">39</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159937" data-name="Grupo 159937" transform="translate(28 17.59)">
+              <g id="Grupo_159936" data-name="Grupo 159936" clip-path="url(#clip-path)">
+                <text id="_44-2" data-name="44" transform="translate(485.085 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">44</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159939" data-name="Grupo 159939" transform="translate(28 17.59)">
+              <g id="Grupo_159938" data-name="Grupo 159938" clip-path="url(#clip-path)">
+                <text id="_49-2" data-name="49" transform="translate(496.216 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">49</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159941" data-name="Grupo 159941" transform="translate(28 17.59)">
+              <g id="Grupo_159940" data-name="Grupo 159940" clip-path="url(#clip-path)">
+                <text id="_02-2" data-name="02" transform="translate(507.38 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">02</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159943" data-name="Grupo 159943" transform="translate(28 17.59)">
+              <g id="Grupo_159942" data-name="Grupo 159942" clip-path="url(#clip-path)">
+                <text id="_07-2" data-name="07" transform="translate(518.512 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">07</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159945" data-name="Grupo 159945" transform="translate(28 17.59)">
+              <g id="Grupo_159944" data-name="Grupo 159944" clip-path="url(#clip-path)">
+                <text id="_12-2" data-name="12" transform="translate(529.644 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">12</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159947" data-name="Grupo 159947" transform="translate(28 17.59)">
+              <g id="Grupo_159946" data-name="Grupo 159946" clip-path="url(#clip-path)">
+                <text id="_17-2" data-name="17" transform="translate(540.777 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">17</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159949" data-name="Grupo 159949" transform="translate(28 17.59)">
+              <g id="Grupo_159948" data-name="Grupo 159948" clip-path="url(#clip-path)">
+                <text id="_22-2" data-name="22" transform="translate(551.94 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">22</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159951" data-name="Grupo 159951" transform="translate(28 17.59)">
+              <g id="Grupo_159950" data-name="Grupo 159950" clip-path="url(#clip-path)">
+                <text id="_27-2" data-name="27" transform="translate(563.072 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">27</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159953" data-name="Grupo 159953" transform="translate(28 17.59)">
+              <g id="Grupo_159952" data-name="Grupo 159952" clip-path="url(#clip-path)">
+                <text id="_32-2" data-name="32" transform="translate(574.204 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">32</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159955" data-name="Grupo 159955" transform="translate(28 17.59)">
+              <g id="Grupo_159954" data-name="Grupo 159954" clip-path="url(#clip-path)">
+                <text id="_37-2" data-name="37" transform="translate(585.337 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">37</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159957" data-name="Grupo 159957" transform="translate(28 17.59)">
+              <g id="Grupo_159956" data-name="Grupo 159956" clip-path="url(#clip-path)">
+                <text id="_42-2" data-name="42" transform="translate(596.499 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">42</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159959" data-name="Grupo 159959" transform="translate(28 17.59)">
+              <g id="Grupo_159958" data-name="Grupo 159958" clip-path="url(#clip-path)">
+                <text id="_47-2" data-name="47" transform="translate(607.632 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">47</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159961" data-name="Grupo 159961" transform="translate(28 17.59)">
+              <g id="Grupo_159960" data-name="Grupo 159960" clip-path="url(#clip-path)">
+                <text id="_52-2" data-name="52" transform="translate(618.764 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">52</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159963" data-name="Grupo 159963" transform="translate(28 17.59)">
+              <g id="Grupo_159962" data-name="Grupo 159962" clip-path="url(#clip-path)">
+                <text id="_05" data-name="05" transform="translate(629.896 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">05</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159965" data-name="Grupo 159965" transform="translate(28 17.59)">
+              <g id="Grupo_159964" data-name="Grupo 159964" clip-path="url(#clip-path)">
+                <text id="_10" data-name="10" transform="translate(641.059 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">10</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159967" data-name="Grupo 159967" transform="translate(28 17.59)">
+              <g id="Grupo_159966" data-name="Grupo 159966" clip-path="url(#clip-path)">
+                <text id="_15" data-name="15" transform="translate(652.191 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">15</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159969" data-name="Grupo 159969" transform="translate(28 17.59)">
+              <g id="Grupo_159968" data-name="Grupo 159968" clip-path="url(#clip-path)">
+                <text id="_20" data-name="20" transform="translate(663.324 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">20</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159971" data-name="Grupo 159971" transform="translate(28 17.59)">
+              <g id="Grupo_159970" data-name="Grupo 159970" clip-path="url(#clip-path)">
+                <text id="_25" data-name="25" transform="translate(674.456 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">25</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159973" data-name="Grupo 159973" transform="translate(28 17.59)">
+              <g id="Grupo_159972" data-name="Grupo 159972" clip-path="url(#clip-path)">
+                <text id="_30" data-name="30" transform="translate(685.619 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">30</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159975" data-name="Grupo 159975" transform="translate(28 17.59)">
+              <g id="Grupo_159974" data-name="Grupo 159974" clip-path="url(#clip-path)">
+                <text id="_35" data-name="35" transform="translate(696.75 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">35</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159977" data-name="Grupo 159977" transform="translate(28 17.59)">
+              <g id="Grupo_159976" data-name="Grupo 159976" clip-path="url(#clip-path)">
+                <text id="_40" data-name="40" transform="translate(707.884 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">40</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159979" data-name="Grupo 159979" transform="translate(28 17.59)">
+              <g id="Grupo_159978" data-name="Grupo 159978" clip-path="url(#clip-path)">
+                <text id="_45" data-name="45" transform="translate(719.015 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">45</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159981" data-name="Grupo 159981" transform="translate(28 17.59)">
+              <g id="Grupo_159980" data-name="Grupo 159980" clip-path="url(#clip-path)">
+                <text id="_50" data-name="50" transform="translate(730.18 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">50</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159983" data-name="Grupo 159983" transform="translate(28 17.59)">
+              <g id="Grupo_159982" data-name="Grupo 159982" clip-path="url(#clip-path)">
+                <text id="_03" data-name="03" transform="translate(741.312 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">03</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159985" data-name="Grupo 159985" transform="translate(28 17.59)">
+              <g id="Grupo_159984" data-name="Grupo 159984" clip-path="url(#clip-path)">
+                <text id="_08" data-name="08" transform="translate(752.442 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">08</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159987" data-name="Grupo 159987" transform="translate(28 17.59)">
+              <g id="Grupo_159986" data-name="Grupo 159986" clip-path="url(#clip-path)">
+                <text id="_13" data-name="13" transform="translate(763.576 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">13</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159989" data-name="Grupo 159989" transform="translate(28 17.59)">
+              <g id="Grupo_159988" data-name="Grupo 159988" clip-path="url(#clip-path)">
+                <text id="_18" data-name="18" transform="translate(774.74 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">18</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159991" data-name="Grupo 159991" transform="translate(28 17.59)">
+              <g id="Grupo_159990" data-name="Grupo 159990" clip-path="url(#clip-path)">
+                <text id="_23" data-name="23" transform="translate(785.871 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">23</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159993" data-name="Grupo 159993" transform="translate(28 17.59)">
+              <g id="Grupo_159992" data-name="Grupo 159992" clip-path="url(#clip-path)">
+                <text id="_28" data-name="28" transform="translate(797.005 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">28</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159995" data-name="Grupo 159995" transform="translate(28 17.59)">
+              <g id="Grupo_159994" data-name="Grupo 159994" clip-path="url(#clip-path)">
+                <text id="_33" data-name="33" transform="translate(808.134 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">33</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159997" data-name="Grupo 159997" transform="translate(28 17.59)">
+              <g id="Grupo_159996" data-name="Grupo 159996" clip-path="url(#clip-path)">
+                <text id="_38" data-name="38" transform="translate(819.3 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">38</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_159999" data-name="Grupo 159999" transform="translate(28 17.59)">
+              <g id="Grupo_159998" data-name="Grupo 159998" clip-path="url(#clip-path)">
+                <text id="_43" data-name="43" transform="translate(830.432 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">43</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160001" data-name="Grupo 160001" transform="translate(28 17.59)">
+              <g id="Grupo_160000" data-name="Grupo 160000" clip-path="url(#clip-path)">
+                <text id="_48" data-name="48" transform="translate(841.563 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">48</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160003" data-name="Grupo 160003" transform="translate(28 17.59)">
+              <g id="Grupo_160002" data-name="Grupo 160002" clip-path="url(#clip-path)">
+                <text id="_01-2" data-name="01" transform="translate(852.695 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">01</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160005" data-name="Grupo 160005" transform="translate(28 17.59)">
+              <g id="Grupo_160004" data-name="Grupo 160004" clip-path="url(#clip-path)">
+                <text id="_06-2" data-name="06" transform="translate(863.858 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">06</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160007" data-name="Grupo 160007" transform="translate(28 17.59)">
+              <g id="Grupo_160006" data-name="Grupo 160006" clip-path="url(#clip-path)">
+                <text id="_11-2" data-name="11" transform="translate(874.992 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">11</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160009" data-name="Grupo 160009" transform="translate(28 17.59)">
+              <g id="Grupo_160008" data-name="Grupo 160008" clip-path="url(#clip-path)">
+                <text id="_16-2" data-name="16" transform="translate(886.123 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">16</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160011" data-name="Grupo 160011" transform="translate(28 17.59)">
+              <g id="Grupo_160010" data-name="Grupo 160010" clip-path="url(#clip-path)">
+                <text id="_21-2" data-name="21" transform="translate(897.255 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">21</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160013" data-name="Grupo 160013" transform="translate(28 17.59)">
+              <g id="Grupo_160012" data-name="Grupo 160012" clip-path="url(#clip-path)">
+                <text id="_26-2" data-name="26" transform="translate(908.419 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">26</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160015" data-name="Grupo 160015" transform="translate(28 17.59)">
+              <g id="Grupo_160014" data-name="Grupo 160014" clip-path="url(#clip-path)">
+                <text id="_31-2" data-name="31" transform="translate(919.55 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">31</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160017" data-name="Grupo 160017" transform="translate(28 17.59)">
+              <g id="Grupo_160016" data-name="Grupo 160016" clip-path="url(#clip-path)">
+                <text id="_36-2" data-name="36" transform="translate(930.682 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">36</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160019" data-name="Grupo 160019" transform="translate(28 17.59)">
+              <g id="Grupo_160018" data-name="Grupo 160018" clip-path="url(#clip-path)">
+                <text id="_41-2" data-name="41" transform="translate(941.815 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">41</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160021" data-name="Grupo 160021" transform="translate(28 17.59)">
+              <g id="Grupo_160020" data-name="Grupo 160020" clip-path="url(#clip-path)">
+                <text id="_46-2" data-name="46" transform="translate(952.978 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">46</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160023" data-name="Grupo 160023" transform="translate(28 17.59)">
+              <g id="Grupo_160022" data-name="Grupo 160022" clip-path="url(#clip-path)">
+                <text id="_51-2" data-name="51" transform="translate(964.111 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">51</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160025" data-name="Grupo 160025" transform="translate(28 17.59)">
+              <g id="Grupo_160024" data-name="Grupo 160024" clip-path="url(#clip-path)">
+                <text id="_04-3" data-name="04" transform="translate(975.242 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">04</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160027" data-name="Grupo 160027" transform="translate(28 17.59)">
+              <g id="Grupo_160026" data-name="Grupo 160026" clip-path="url(#clip-path)">
+                <text id="_09-3" data-name="09" transform="translate(986.375 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">09</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160029" data-name="Grupo 160029" transform="translate(28 17.59)">
+              <g id="Grupo_160028" data-name="Grupo 160028" clip-path="url(#clip-path)">
+                <text id="_14-3" data-name="14" transform="translate(997.539 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">14</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160031" data-name="Grupo 160031" transform="translate(28 17.59)">
+              <g id="Grupo_160030" data-name="Grupo 160030" clip-path="url(#clip-path)">
+                <text id="_19-3" data-name="19" transform="translate(1008.67 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">19</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160033" data-name="Grupo 160033" transform="translate(28 17.59)">
+              <g id="Grupo_160032" data-name="Grupo 160032" clip-path="url(#clip-path)">
+                <text id="_24-3" data-name="24" transform="translate(1019.802 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">24</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160035" data-name="Grupo 160035" transform="translate(28 17.59)">
+              <g id="Grupo_160034" data-name="Grupo 160034" clip-path="url(#clip-path)">
+                <text id="_29-3" data-name="29" transform="translate(1030.934 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">29</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160037" data-name="Grupo 160037" transform="translate(28 17.59)">
+              <g id="Grupo_160036" data-name="Grupo 160036" clip-path="url(#clip-path)">
+                <text id="_34-3" data-name="34" transform="translate(1042.098 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">34</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160039" data-name="Grupo 160039" transform="translate(28 17.59)">
+              <g id="Grupo_160038" data-name="Grupo 160038" clip-path="url(#clip-path)">
+                <text id="_39-3" data-name="39" transform="translate(1053.232 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">39</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160041" data-name="Grupo 160041" transform="translate(28 17.59)">
+              <g id="Grupo_160040" data-name="Grupo 160040" clip-path="url(#clip-path)">
+                <text id="_44-3" data-name="44" transform="translate(1064.362 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">44</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160043" data-name="Grupo 160043" transform="translate(28 17.59)">
+              <g id="Grupo_160042" data-name="Grupo 160042" clip-path="url(#clip-path)">
+                <text id="_49-3" data-name="49" transform="translate(1075.493 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">49</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160045" data-name="Grupo 160045" transform="translate(28 17.59)">
+              <g id="Grupo_160044" data-name="Grupo 160044" clip-path="url(#clip-path)">
+                <text id="_01-3" data-name="01" transform="translate(1086.658 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">01</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160047" data-name="Grupo 160047" transform="translate(28 17.59)">
+              <g id="Grupo_160046" data-name="Grupo 160046" clip-path="url(#clip-path)">
+                <text id="_06-3" data-name="06" transform="translate(1097.791 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">06</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160049" data-name="Grupo 160049" transform="translate(28 17.59)">
+              <g id="Grupo_160048" data-name="Grupo 160048" clip-path="url(#clip-path)">
+                <text id="_11-3" data-name="11" transform="translate(1108.922 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">11</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160051" data-name="Grupo 160051" transform="translate(28 17.59)">
+              <g id="Grupo_160050" data-name="Grupo 160050" clip-path="url(#clip-path)">
+                <text id="_16-3" data-name="16" transform="translate(1120.054 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">16</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160053" data-name="Grupo 160053" transform="translate(28 17.59)">
+              <g id="Grupo_160052" data-name="Grupo 160052" clip-path="url(#clip-path)">
+                <text id="_21-3" data-name="21" transform="translate(1131.218 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">21</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160055" data-name="Grupo 160055" transform="translate(28 17.59)">
+              <g id="Grupo_160054" data-name="Grupo 160054" clip-path="url(#clip-path)">
+                <text id="_26-3" data-name="26" transform="translate(1142.35 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">26</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160057" data-name="Grupo 160057" transform="translate(28 17.59)">
+              <g id="Grupo_160056" data-name="Grupo 160056" clip-path="url(#clip-path)">
+                <text id="_31-3" data-name="31" transform="translate(1153.483 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">31</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160059" data-name="Grupo 160059" transform="translate(28 17.59)">
+              <g id="Grupo_160058" data-name="Grupo 160058" clip-path="url(#clip-path)">
+                <text id="_36-3" data-name="36" transform="translate(1164.614 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">36</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160061" data-name="Grupo 160061" transform="translate(28 17.59)">
+              <g id="Grupo_160060" data-name="Grupo 160060" clip-path="url(#clip-path)">
+                <text id="_41-3" data-name="41" transform="translate(1175.778 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">41</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160063" data-name="Grupo 160063" transform="translate(28 17.59)">
+              <g id="Grupo_160062" data-name="Grupo 160062" clip-path="url(#clip-path)">
+                <text id="_46-3" data-name="46" transform="translate(1186.91 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">46</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160065" data-name="Grupo 160065" transform="translate(28 17.59)">
+              <g id="Grupo_160064" data-name="Grupo 160064" clip-path="url(#clip-path)">
+                <text id="_51-3" data-name="51" transform="translate(1198.041 487.112)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">51</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160067" data-name="Grupo 160067" transform="translate(28 17.59)">
+              <g id="Grupo_160066" data-name="Grupo 160066" clip-path="url(#clip-path)">
+                <text id="_2012" data-name="2012" transform="translate(91.498 505.949)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">2012</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160069" data-name="Grupo 160069" transform="translate(28 17.59)">
+              <g id="Grupo_160068" data-name="Grupo 160068" clip-path="url(#clip-path)">
+                <text id="_2013" data-name="2013" transform="translate(207.353 505.949)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">2013</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160071" data-name="Grupo 160071" transform="translate(28 17.59)">
+              <g id="Grupo_160070" data-name="Grupo 160070" clip-path="url(#clip-path)">
+                <text id="_2014" data-name="2014" transform="translate(324.319 505.949)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">2014</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160073" data-name="Grupo 160073" transform="translate(28 17.59)">
+              <g id="Grupo_160072" data-name="Grupo 160072" clip-path="url(#clip-path)">
+                <text id="_2015" data-name="2015" transform="translate(441.285 505.949)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">2015</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160075" data-name="Grupo 160075" transform="translate(28 17.59)">
+              <g id="Grupo_160074" data-name="Grupo 160074" clip-path="url(#clip-path)">
+                <text id="_2016" data-name="2016" transform="translate(557.141 505.949)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">2016</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160077" data-name="Grupo 160077" transform="translate(28 17.59)">
+              <g id="Grupo_160076" data-name="Grupo 160076" clip-path="url(#clip-path)">
+                <text id="_2017" data-name="2017" transform="translate(672.997 505.949)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">2017</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160079" data-name="Grupo 160079" transform="translate(28 17.59)">
+              <g id="Grupo_160078" data-name="Grupo 160078" clip-path="url(#clip-path)">
+                <text id="_2018" data-name="2018" transform="translate(788.852 505.949)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">2018</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160081" data-name="Grupo 160081" transform="translate(28 17.59)">
+              <g id="Grupo_160080" data-name="Grupo 160080" clip-path="url(#clip-path)">
+                <text id="_2019" data-name="2019" transform="translate(904.709 505.949)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">2019</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160083" data-name="Grupo 160083" transform="translate(28 17.59)">
+              <g id="Grupo_160082" data-name="Grupo 160082" clip-path="url(#clip-path)">
+                <text id="_2020" data-name="2020" transform="translate(1021.674 505.949)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">2020</tspan></text>
+              </g>
+            </g>
+            <g id="Grupo_160085" data-name="Grupo 160085" transform="translate(28 17.59)">
+              <g id="Grupo_160084" data-name="Grupo 160084" clip-path="url(#clip-path)">
+                <text id="_2021" data-name="2021" transform="translate(1137.528 505.949)" fill="#595959" font-size="8" font-family="Calibri"><tspan x="0" y="0">2021</tspan></text>
+              </g>
+            </g>
+          </g>
+          <path id="Rectángulo_46123" data-name="Rectángulo 46123" d="M8,0H296a8,8,0,0,1,8,8V44a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(960 6797) rotate(180)" fill="#344abe"/>
+          <path id="Rectángulo_46124" data-name="Rectángulo 46124" d="M8,0H264a8,8,0,0,1,8,8V44a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" transform="translate(180 6190)" fill="#54397c"/>
+          <text id="Año_y_semana_epidemiológica_" data-name="Año y semana epidemiológica
+" transform="translate(656 6763)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="30.562" y="19">Año y semana epidemiológica</tspan></text>
+          <text id="Casos_notificados_de_dengue_" data-name="Casos notificados de dengue
+" transform="translate(195 6200)" fill="#fff" font-size="18" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="19">Casos notificados de dengue</tspan></text>
+          <path id="Trazado_600220" data-name="Trazado 600220" d="M-8673-5470.76v525.612" transform="translate(8868 11700)" fill="none" stroke="#54397c" stroke-width="3"/>
+          <path id="Trazado_600221" data-name="Trazado 600221" d="M-8673-5470.76v1223.484" transform="translate(-4050.775 15426.07) rotate(90)" fill="none" stroke="#4462fe" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

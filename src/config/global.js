@@ -327,7 +327,8 @@ export default {
     {
       referencia:
         'Organización Mundial de la Salud. (2021). Poner fin a la desatención para alcanzar los objetivos de desarrollo sostenible: hoja de ruta sobre enfermedades tropicales desatendidas 2021-2030. Organización Mundial de la Salud',
-      link: 'https://apps.who.int/iris/handle/10665/346561.',
+      link:
+        'https://www.paho.org/es/documentos/poner-fin-desatencion-para-alcanzar-objetivos-desarrollo-sostenible-hoja-ruta-sobre',
     },
     {
       referencia:
